@@ -1,0 +1,2222 @@
+#EXTM3U
+#EXTPARAMS:NET=6500
+#EXTINF:-1 group-title="RACING",UK: Racing UK
+http://iptv-line.com:7899/demo480472/590587/391
+#EXTINF:-1,UK: RACING UK FHD
+http://iptv-line.com:7899/demo480472/590587/26851
+#EXTINF:-1,UK: At The Races
+http://iptv-line.com:7899/demo480472/590587/440
+#EXTINF:-1,UK: SKY SPORTS RACING FHD
+http://iptv-line.com:7899/demo480472/590587/40218
+#EXTINF:-1 group-title="SKY SPORTS",UK: SKY SPORTS BOX OFFICE *
+http://iptv-line.com:7899/demo480472/590587/16084
+#EXTINF:-1,UK VIP: SKY SPORTS HD MAIN EVENT
+http://iptv-line.com:7899/demo480472/590587/18046
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT FHD
+http://iptv-line.com:7899/demo480472/590587/8612
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT
+http://iptv-line.com:7899/demo480472/590587/2463
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
+http://iptv-line.com:7899/demo480472/590587/26
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD Backup
+http://iptv-line.com:7899/demo480472/590587/40197
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
+http://iptv-line.com:7899/demo480472/590587/2459
+#EXTINF:-1,UK VIP:  SKY SPORTS HD PREMIER LEAG
+http://iptv-line.com:7899/demo480472/590587/18043
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
+http://iptv-line.com:7899/demo480472/590587/18
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE FHD
+http://iptv-line.com:7899/demo480472/590587/8616
+#EXTINF:-1,UK VIP: SKY SPORTS HD FOOTBALL
+http://iptv-line.com:7899/demo480472/590587/18047
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL FHD
+http://iptv-line.com:7899/demo480472/590587/9436
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD Backup
+http://iptv-line.com:7899/demo480472/590587/40199
+#EXTINF:-1,UK: Sky Sport Football HD
+http://iptv-line.com:7899/demo480472/590587/10164
+#EXTINF:-1,UK: SKY SPORTS ACTION
+http://iptv-line.com:7899/demo480472/590587/2461
+#EXTINF:-1,UK: SKY SPORTS ACTION HD
+http://iptv-line.com:7899/demo480472/590587/22
+#EXTINF:-1,UK VIP: SKY SPORTS ACTION HD
+http://iptv-line.com:7899/demo480472/590587/18051
+#EXTINF:-1,UK: SKY SPORTS FHD ACTION
+http://iptv-line.com:7899/demo480472/590587/8613
+#EXTINF:-1,UK: SKY SPORTS ACTION HD Backup
+http://iptv-line.com:7899/demo480472/590587/40202
+#EXTINF:-1,UK VIP: SKY SPORTS ARENA HD
+http://iptv-line.com:7899/demo480472/590587/18049
+#EXTINF:-1,UK: SKY SPORTS ARENA HD Backup
+http://iptv-line.com:7899/demo480472/590587/40201
+#EXTINF:-1,UK VIP: SKY SPORTS F1 HD
+http://iptv-line.com:7899/demo480472/590587/18052
+#EXTINF:-1,UK: Sky Sports F1 FHD
+http://iptv-line.com:7899/demo480472/590587/14901
+#EXTINF:-1,UK: SKY SPORTS FHD 1
+http://iptv-line.com:7899/demo480472/590587/8615
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://iptv-line.com:7899/demo480472/590587/443
+#EXTINF:-1,UK: Sky Sports Mix SD
+http://iptv-line.com:7899/demo480472/590587/50782
+#EXTINF:-1,UK: Sky Sports Mix
+http://iptv-line.com:7899/demo480472/590587/5496
+#EXTINF:-1,UK: SKY SPORTS CRICKET
+http://iptv-line.com:7899/demo480472/590587/2462
+#EXTINF:-1,UK VIP: SKY SPORTS CRICKET HD
+http://iptv-line.com:7899/demo480472/590587/18048
+#EXTINF:-1,UK: SKY SPORTS GOLF
+http://iptv-line.com:7899/demo480472/590587/2460
+#EXTINF:-1,UK: Sky Sports News SD
+http://iptv-line.com:7899/demo480472/590587/50781
+#EXTINF:-1 group-title="BT SPORTS",UK: BT SPORTS 1 FHD 50 FPS
+http://iptv-line.com:7899/demo480472/590587/52437
+#EXTINF:-1,UK: BT Sport 1 SD
+http://iptv-line.com:7899/demo480472/590587/50770
+#EXTINF:-1,VIP UK: BBC 1 HD ( 1080P )
+http://iptv-line.com:7899/demo480472/590587/6744
+#EXTINF:-1,UK: BT Sports 1 FHD
+http://iptv-line.com:7899/demo480472/590587/8620
+#EXTINF:-1,UK: BT Sport 1 backup
+http://iptv-line.com:7899/demo480472/590587/8950
+#EXTINF:-1,UK: BT Sport 1 HD
+http://iptv-line.com:7899/demo480472/590587/8
+#EXTINF:-1,UK: BT Sport 1 HD (D)
+http://iptv-line.com:7899/demo480472/590587/40432
+#EXTINF:-1,UK: BT Sport 2 SD
+http://iptv-line.com:7899/demo480472/590587/50771
+#EXTINF:-1,VIP UK: BT Sport 2 HD 1080p
+http://iptv-line.com:7899/demo480472/590587/6630
+#EXTINF:-1,UK: BT Sports 2 FHD
+http://iptv-line.com:7899/demo480472/590587/8619
+#EXTINF:-1,UK: BT Sport 2 HD
+http://iptv-line.com:7899/demo480472/590587/6
+#EXTINF:-1,UK: BT Sport 2 HD (D)
+http://iptv-line.com:7899/demo480472/590587/40431
+#EXTINF:-1,VIP UK: BT Sport 3 HD 1080p
+http://iptv-line.com:7899/demo480472/590587/6631
+#EXTINF:-1,UK: BT Sports 3 FHD
+http://iptv-line.com:7899/demo480472/590587/8618
+#EXTINF:-1,UK: BT Sport 3 HD
+http://iptv-line.com:7899/demo480472/590587/5547
+#EXTINF:-1,UK: BT Sport 3 HD (D)
+http://iptv-line.com:7899/demo480472/590587/40430
+#EXTINF:-1,UK: BT Sport 3 SD
+http://iptv-line.com:7899/demo480472/590587/4954
+#EXTINF:-1,UK: BT Sport ESPN HD
+http://iptv-line.com:7899/demo480472/590587/17202
+#EXTINF:-1,UK: BOXNATION HD
+http://iptv-line.com:7899/demo480472/590587/27362
+#EXTINF:-1,UK: Boxnation
+http://iptv-line.com:7899/demo480472/590587/9
+#EXTINF:-1 group-title="FOOTBALL",AF: SuperSport 3
+http://iptv-line.com:7899/demo480472/590587/48743
+#EXTINF:-1,AR: beIN Sports 11 HD
+http://iptv-line.com:7899/demo480472/590587/40
+#EXTINF:-1,RO: EUROSPORT 1
+http://iptv-line.com:7899/demo480472/590587/4495
+#EXTINF:-1,RO: Eurosport 1 FHD
+http://iptv-line.com:7899/demo480472/590587/17236
+#EXTINF:-1,AR VIP: Bein Sport 11 HD (Backup)
+http://iptv-line.com:7899/demo480472/590587/5996
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://iptv-line.com:7899/demo480472/590587/28256
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://iptv-line.com:7899/demo480472/590587/3993
+#EXTINF:-1,PT: SPORT TV 2 HD 1080
+http://iptv-line.com:7899/demo480472/590587/7043
+#EXTINF:-1,PT: SPORT TV 2 HD(1)
+http://iptv-line.com:7899/demo480472/590587/159
+#EXTINF:-1,US: NBCSN FHD
+http://iptv-line.com:7899/demo480472/590587/46808
+#EXTINF:-1,US: NBCSN HD
+http://iptv-line.com:7899/demo480472/590587/17200
+#EXTINF:-1,US: NBCSN HD 1080P
+http://iptv-line.com:7899/demo480472/590587/8548
+#EXTINF:-1 group-title="SUPERSPORT",AF: SuperSport 3
+http://iptv-line.com:7899/demo480472/590587/48743
+#EXTINF:-1,AF: SuperSport 1
+http://iptv-line.com:7899/demo480472/590587/48748
+#EXTINF:-1,AF: SuperSport 2
+http://iptv-line.com:7899/demo480472/590587/48744
+#EXTINF:-1,AF: SuperSport 4
+http://iptv-line.com:7899/demo480472/590587/48742
+#EXTINF:-1,AF: SuperSport 5
+http://iptv-line.com:7899/demo480472/590587/48741
+#EXTINF:-1,AF: SuperSport 6
+http://iptv-line.com:7899/demo480472/590587/48740
+#EXTINF:-1,AF: SuperSport 7
+http://iptv-line.com:7899/demo480472/590587/48739
+#EXTINF:-1,AF: SuperSport 8
+http://iptv-line.com:7899/demo480472/590587/48738
+#EXTINF:-1,AF: SuperSport 9
+http://iptv-line.com:7899/demo480472/590587/48737
+#EXTINF:-1,AF: SuperSport 10
+http://iptv-line.com:7899/demo480472/590587/48747
+#EXTINF:-1,AF: SuperSport 11
+http://iptv-line.com:7899/demo480472/590587/48746
+#EXTINF:-1,AF: SuperSport 12
+http://iptv-line.com:7899/demo480472/590587/48745
+#EXTINF:-1 group-title="BEIN",AR: Bein sport 11 FHD
+http://iptv-line.com:7899/demo480472/590587/18063
+#EXTINF:-1,AR: beIN Sport 11 HD VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47261
+#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 11
+http://iptv-line.com:7899/demo480472/590587/33770
+#EXTINF:-1,AR VIP: Bein Sport 11 HD (Backup)
+http://iptv-line.com:7899/demo480472/590587/5996
+#EXTINF:-1,AR: beIN Sports 11 HD
+http://iptv-line.com:7899/demo480472/590587/40
+#EXTINF:-1,AR: Bein sport 12 FHD
+http://iptv-line.com:7899/demo480472/590587/18062
+#EXTINF:-1,AR: beIN Sport 12 HD VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47260
+#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 12
+http://iptv-line.com:7899/demo480472/590587/33769
+#EXTINF:-1,AR VIP: Bein Sport 12 HD (Backup)
+http://iptv-line.com:7899/demo480472/590587/5997
+#EXTINF:-1,AR: beIN Sports 12 HD
+http://iptv-line.com:7899/demo480472/590587/41
+#EXTINF:-1,AR: bein Sport 13 FHD
+http://iptv-line.com:7899/demo480472/590587/27745
+#EXTINF:-1,AR: beIN Sports 13 HD
+http://iptv-line.com:7899/demo480472/590587/42
+#EXTINF:-1,AR: bein Sport 10 FHD (hevc)
+http://iptv-line.com:7899/demo480472/590587/27736
+#EXTINF:-1,AR: beIN Sport 10 HD VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47262
+#EXTINF:-1,AR: beIN Sports 10 HD HEVC VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47250
+#EXTINF:-1,AR: Bein sport 10 FHD
+http://iptv-line.com:7899/demo480472/590587/18064
+#EXTINF:-1,AR: Bein sport 1 FHD
+http://iptv-line.com:7899/demo480472/590587/18065
+#EXTINF:-1,AR: beIN SPORTS 14 HD
+http://iptv-line.com:7899/demo480472/590587/33768
+#EXTINF:-1,AR: beIN SPORTS 15 HD
+http://iptv-line.com:7899/demo480472/590587/33767
+#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 10
+http://iptv-line.com:7899/demo480472/590587/33771
+#EXTINF:-1,AR: beIN Sport 1 HD VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47271
+#EXTINF:-1,AR: Bein sport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/18060
+#EXTINF:-1,AR: bein Sport 2 FHD (hevc)
+http://iptv-line.com:7899/demo480472/590587/27744
+#EXTINF:-1,AR: beIN Sport 2 HD VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47270
+#EXTINF:-1,AR: Bein sport 3 FHD
+http://iptv-line.com:7899/demo480472/590587/18059
+#EXTINF:-1,AR: bein Sport 3 FHD (hevc)
+http://iptv-line.com:7899/demo480472/590587/27743
+#EXTINF:-1,AR: beIN Sport 3 HD VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47269
+#EXTINF:-1,AR: Bein sport 4 FHD
+http://iptv-line.com:7899/demo480472/590587/18058
+#EXTINF:-1,AR: bein Sport 4 FHD (hevc)
+http://iptv-line.com:7899/demo480472/590587/27742
+#EXTINF:-1,AR: beIN Sport 4 HD VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47268
+#EXTINF:-1,AR: Bein sport 5 FHD
+http://iptv-line.com:7899/demo480472/590587/18057
+#EXTINF:-1,AR: beIN Sport 5 HD VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47267
+#EXTINF:-1,AR: Bein sport 6 FHD
+http://iptv-line.com:7899/demo480472/590587/18056
+#EXTINF:-1,AR: bein Sport 6 FHD (hevc)
+http://iptv-line.com:7899/demo480472/590587/27740
+#EXTINF:-1,AR: beIN Sport 6 HD VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47266
+#EXTINF:-1,AR: Bein sport 7 FHD
+http://iptv-line.com:7899/demo480472/590587/18055
+#EXTINF:-1,AR: bein Sport 7 FHD (hevc)
+http://iptv-line.com:7899/demo480472/590587/27739
+#EXTINF:-1,AR: beIN Sport 7 HD VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47265
+#EXTINF:-1,AR: Bein sport 8 FHD
+http://iptv-line.com:7899/demo480472/590587/18054
+#EXTINF:-1,AR: bein Sport 8 FHD (hevc)
+http://iptv-line.com:7899/demo480472/590587/27738
+#EXTINF:-1,AR: bein Sport 9 FHD (hevc)
+http://iptv-line.com:7899/demo480472/590587/27737
+#EXTINF:-1,AR: beIN Sport 9 HD VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47263
+#EXTINF:-1,AR: Bein Sport HD
+http://iptv-line.com:7899/demo480472/590587/17325
+#EXTINF:-1,AR: beIN Sports 1 HD HEVC VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47259
+#EXTINF:-1,AR: beIN Sports 2 HD HEVC VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47258
+#EXTINF:-1,AR: beIN Sports 3 HD HEVC VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47257
+#EXTINF:-1,AR: beIN Sports 4 HD HEVC VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47256
+#EXTINF:-1,AR: beIN Sports 5 HD HEVC VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47255
+#EXTINF:-1,AR: beIN Sports 6 HD HEVC VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47254
+#EXTINF:-1,AR: beIN Sports 7 HD HEVC VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47253
+#EXTINF:-1,AR: beIN Sports 8 HD HEVC VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47252
+#EXTINF:-1,AR: beIN Sports 9 HD HEVC VIP SPORTS
+http://iptv-line.com:7899/demo480472/590587/47251
+#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 1
+http://iptv-line.com:7899/demo480472/590587/32163
+#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 2
+http://iptv-line.com:7899/demo480472/590587/32162
+#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 3
+http://iptv-line.com:7899/demo480472/590587/32161
+#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 4
+http://iptv-line.com:7899/demo480472/590587/32160
+#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 5
+http://iptv-line.com:7899/demo480472/590587/32159
+#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 6
+http://iptv-line.com:7899/demo480472/590587/32158
+#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 7
+http://iptv-line.com:7899/demo480472/590587/32157
+#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 8
+http://iptv-line.com:7899/demo480472/590587/32156
+#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 9
+http://iptv-line.com:7899/demo480472/590587/33772
+#EXTINF:-1,AR: beIN SPORTS Global HD
+http://iptv-line.com:7899/demo480472/590587/32164
+#EXTINF:-1 group-title="FRANCE",FR: RMC 1
+http://iptv-line.com:7899/demo480472/590587/3715
+#EXTINF:-1,FR: RMC SPORTS 1 HD (hevc)
+http://iptv-line.com:7899/demo480472/590587/53836
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://iptv-line.com:7899/demo480472/590587/28256
+#EXTINF:-1,FR: RMC SPORT 1 FHD
+http://iptv-line.com:7899/demo480472/590587/31277
+#EXTINF:-1,FR: RMC SPORTS 2 HD (hevc)
+http://iptv-line.com:7899/demo480472/590587/53837
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://iptv-line.com:7899/demo480472/590587/28267
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://iptv-line.com:7899/demo480472/590587/31276
+#EXTINF:-1,FR: RMC SPORTS 4 HD (hevc)
+http://iptv-line.com:7899/demo480472/590587/53839
+#EXTINF:-1,FR: RMC SPORTS 3 HD (hevc)
+http://iptv-line.com:7899/demo480472/590587/53838
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://iptv-line.com:7899/demo480472/590587/28266
+#EXTINF:-1,FR: RMC SPORT 3 FHD
+http://iptv-line.com:7899/demo480472/590587/31275
+#EXTINF:-1,FR: RMC SPORT 4 HD
+http://iptv-line.com:7899/demo480472/590587/28265
+#EXTINF:-1,FR: RMC SPORT 4K
+http://iptv-line.com:7899/demo480472/590587/31273
+#EXTINF:-1,FR: RMC SPORT 4 HD
+http://iptv-line.com:7899/demo480472/590587/31274
+#EXTINF:-1,FR: RMC SPORT 5 HD
+http://iptv-line.com:7899/demo480472/590587/28264
+#EXTINF:-1,FR: RMC SPORT LIVE 5
+http://iptv-line.com:7899/demo480472/590587/31272
+#EXTINF:-1,FR: RMC SPORT LIVE 10 HD
+http://iptv-line.com:7899/demo480472/590587/40337
+#EXTINF:-1,FR: RMC SPORT LIVE 11 HD
+http://iptv-line.com:7899/demo480472/590587/40336
+#EXTINF:-1,FR: RMC SPORT LIVE 12 HD
+http://iptv-line.com:7899/demo480472/590587/40335
+#EXTINF:-1,FR: RMC SPORT LIVE 13 HD
+http://iptv-line.com:7899/demo480472/590587/40334
+#EXTINF:-1,FR: RMC SPORT LIVE 14 HD
+http://iptv-line.com:7899/demo480472/590587/40333
+#EXTINF:-1,FR: RMC SPORT LIVE 15 HD
+http://iptv-line.com:7899/demo480472/590587/40332
+#EXTINF:-1,FR: RMC SPORT LIVE 16 HD
+http://iptv-line.com:7899/demo480472/590587/40331
+#EXTINF:-1,FR: RMC SPORT LIVE 6
+http://iptv-line.com:7899/demo480472/590587/40341
+#EXTINF:-1,FR: RMC SPORT LIVE 7
+http://iptv-line.com:7899/demo480472/590587/40340
+#EXTINF:-1,FR: RMC SPORT LIVE 8
+http://iptv-line.com:7899/demo480472/590587/40339
+#EXTINF:-1,FR: RMC SPORT LIVE 9
+http://iptv-line.com:7899/demo480472/590587/40338
+#EXTINF:-1 group-title="GERMANY",DE: Sky Sport 1 SD
+http://iptv-line.com:7899/demo480472/590587/110475
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://iptv-line.com:7899/demo480472/590587/110474
+#EXTINF:-1,DE: Sky Sport 1 FHD
+http://iptv-line.com:7899/demo480472/590587/110473
+#EXTINF:-1,DE: Sky Sport Austria 1 HD (H
+http://iptv-line.com:7899/demo480472/590587/53849
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://iptv-line.com:7899/demo480472/590587/409
+#EXTINF:-1,DE: Sky Sport 1 FHD
+http://iptv-line.com:7899/demo480472/590587/6746
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 FH
+http://iptv-line.com:7899/demo480472/590587/6794
+#EXTINF:-1,DE: Sky Sport 1 HD 1080P
+http://iptv-line.com:7899/demo480472/590587/7524
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://iptv-line.com:7899/demo480472/590587/7534
+#EXTINF:-1,DE: Sky Sport 1 Backup
+http://iptv-line.com:7899/demo480472/590587/29169
+#EXTINF:-1,DE: Sky Sport 1 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29168
+#EXTINF:-1,DE: SKY SPORT AUSTRIA 1 HD+
+http://iptv-line.com:7899/demo480472/590587/49798
+#EXTINF:-1,DE: SKY SPORT 1 (HD)
+http://iptv-line.com:7899/demo480472/590587/49802
+#EXTINF:-1,DE: Sky Sport 2 SD
+http://iptv-line.com:7899/demo480472/590587/110478
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://iptv-line.com:7899/demo480472/590587/110477
+#EXTINF:-1,DE: Sky Sport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/110476
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://iptv-line.com:7899/demo480472/590587/410
+#EXTINF:-1,DE: Sky Sport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/6747
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 FH
+http://iptv-line.com:7899/demo480472/590587/6795
+#EXTINF:-1,DE: Sky Sport 2 HD 1080P
+http://iptv-line.com:7899/demo480472/590587/7523
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD
+http://iptv-line.com:7899/demo480472/590587/7532
+#EXTINF:-1,DE: Sky Sport Austria FHD
+http://iptv-line.com:7899/demo480472/590587/7584
+#EXTINF:-1,DE: Sky Sport 2 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29166
+#EXTINF:-1,DE: SKY SPORT AUSTRIA 2 HD+
+http://iptv-line.com:7899/demo480472/590587/49799
+#EXTINF:-1,DE: SKY SPORT 2 (HD)
+http://iptv-line.com:7899/demo480472/590587/49803
+#EXTINF:-1,DE: DAZN 1 Bar HD (H265/HEVC)
+http://iptv-line.com:7899/demo480472/590587/53844
+#EXTINF:-1,DE: DAZN 1 FHD
+http://iptv-line.com:7899/demo480472/590587/28269
+#EXTINF:-1,DE: DAZN 1 BAR (2K)
+http://iptv-line.com:7899/demo480472/590587/49791
+#EXTINF:-1,DE: DAZN 1 BAR HD+
+http://iptv-line.com:7899/demo480472/590587/49795
+#EXTINF:-1,DE: DAZN 2 Bar HD (H265/HEVC)
+http://iptv-line.com:7899/demo480472/590587/53845
+#EXTINF:-1,DE: DAZN 2 FHD
+http://iptv-line.com:7899/demo480472/590587/28270
+#EXTINF:-1,DE: DAZN 2 BAR HD (2K)
+http://iptv-line.com:7899/demo480472/590587/49792
+#EXTINF:-1,DE: DAZN 2 BAR HD+
+http://iptv-line.com:7899/demo480472/590587/49796
+#EXTINF:-1,DE: Telekom Fussbal 8 HD
+http://iptv-line.com:7899/demo480472/590587/110842
+#EXTINF:-1,DE: Telekom Fussbal 7 HD
+http://iptv-line.com:7899/demo480472/590587/110841
+#EXTINF:-1,DE: Telekom Fussbal 6 HD
+http://iptv-line.com:7899/demo480472/590587/110840
+#EXTINF:-1,DE: Telekom Fussbal 5 HD
+http://iptv-line.com:7899/demo480472/590587/110839
+#EXTINF:-1,DE: Telekom Fussbal 4 HD
+http://iptv-line.com:7899/demo480472/590587/110838
+#EXTINF:-1,DE: Telekom Fussbal 3 HD
+http://iptv-line.com:7899/demo480472/590587/110837
+#EXTINF:-1,DE: Telekom Fussbal 2 HD
+http://iptv-line.com:7899/demo480472/590587/110836
+#EXTINF:-1,DE: Telekom Fussbal 1 HD
+http://iptv-line.com:7899/demo480472/590587/110835
+#EXTINF:-1,DE: Teleclub Sport 1 HD
+http://iptv-line.com:7899/demo480472/590587/110831
+#EXTINF:-1,DE: 3. Bundesliga 8 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110519
+#EXTINF:-1,DE: 3. Bundesliga 7 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110518
+#EXTINF:-1,DE: 3. Bundesliga 6 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110517
+#EXTINF:-1,DE: 3. Bundesliga 5 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110516
+#EXTINF:-1,DE: 3. Bundesliga 4 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110515
+#EXTINF:-1,DE: 3. Bundesliga 3 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110514
+#EXTINF:-1,DE: 3. Bundesliga 2 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110513
+#EXTINF:-1,DE: 3. Bundesliga 1 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110512
+#EXTINF:-1,DE: DEL Sport 7 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110511
+#EXTINF:-1,DE: DEL Sport 6 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110510
+#EXTINF:-1,DE: DEL Sport 5 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110509
+#EXTINF:-1,DE: DEL Sport 4 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110508
+#EXTINF:-1,DE: DEL Sport 3 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110507
+#EXTINF:-1,DE: DEL Sport 2 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110506
+#EXTINF:-1,DE: DEL Sport 1 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110505
+#EXTINF:-1,DE: BBL Sport 4 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110504
+#EXTINF:-1,DE: BBL Sport 3 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110503
+#EXTINF:-1,DE: BBL Sport 2 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110502
+#EXTINF:-1,DE: BBL Sport 1 (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110501
+#EXTINF:-1,DE: Sky Sport 11 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110500
+#EXTINF:-1,DE: Sky Sport 11 FHD
+http://iptv-line.com:7899/demo480472/590587/110499
+#EXTINF:-1,DE: Sky Sport 10 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110498
+#EXTINF:-1,DE: Sky Sport 10 FHD
+http://iptv-line.com:7899/demo480472/590587/110497
+#EXTINF:-1,DE: Sky Sport 9 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110496
+#EXTINF:-1,DE: Sky Sport 9 FHD
+http://iptv-line.com:7899/demo480472/590587/110495
+#EXTINF:-1,DE: Sky Sport 8 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110494
+#EXTINF:-1,DE: Sky Sport 8 FHD
+http://iptv-line.com:7899/demo480472/590587/110493
+#EXTINF:-1,DE: Sky Sport 7 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110492
+#EXTINF:-1,DE: Sky Sport 7 FHD
+http://iptv-line.com:7899/demo480472/590587/110491
+#EXTINF:-1,DE: Sky Sport 6 SD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110490
+#EXTINF:-1,DE: Sky Sport 6 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110489
+#EXTINF:-1,DE: Sky Sport 6 FHD
+http://iptv-line.com:7899/demo480472/590587/110488
+#EXTINF:-1,DE: Sky Sport 5 SD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110487
+#EXTINF:-1,DE: Sky Sport 5 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110486
+#EXTINF:-1,DE: Sky Sport 5 FHD
+http://iptv-line.com:7899/demo480472/590587/110485
+#EXTINF:-1,DE: Sky Sport 4 SD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110484
+#EXTINF:-1,DE: Sky Sport 4 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110483
+#EXTINF:-1,DE: Sky Sport 4 FHD
+http://iptv-line.com:7899/demo480472/590587/110482
+#EXTINF:-1,DE: Sky Sport 3 SD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110481
+#EXTINF:-1,DE: Sky Sport 3 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110480
+#EXTINF:-1,DE: Sky Sport 3 FHD
+http://iptv-line.com:7899/demo480472/590587/110479
+#EXTINF:-1,DE: Sky Bundesliga 10 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110472
+#EXTINF:-1,DE: Sky Bundesliga 10 FHD
+http://iptv-line.com:7899/demo480472/590587/110471
+#EXTINF:-1,DE: Sky Bundesliga 9 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110470
+#EXTINF:-1,DE: Sky Bundesliga 9 FHD
+http://iptv-line.com:7899/demo480472/590587/110469
+#EXTINF:-1,DE: Sky Bundesliga 8 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110468
+#EXTINF:-1,DE: Sky Bundesliga 8 FHD
+http://iptv-line.com:7899/demo480472/590587/110467
+#EXTINF:-1,DE: Sky Bundesliga 7 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110466
+#EXTINF:-1,DE: Sky Bundesliga 7 FHD
+http://iptv-line.com:7899/demo480472/590587/110465
+#EXTINF:-1,DE: Sky Bundesliga 6 SD
+http://iptv-line.com:7899/demo480472/590587/110464
+#EXTINF:-1,DE: Sky Bundesliga 6 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110463
+#EXTINF:-1,DE: Sky Bundesliga 6 FHD
+http://iptv-line.com:7899/demo480472/590587/110462
+#EXTINF:-1,DE: Sky Bundesliga 5 SD
+http://iptv-line.com:7899/demo480472/590587/110461
+#EXTINF:-1,DE: Sky Bundesliga 5 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110460
+#EXTINF:-1,DE: Sky Bundesliga 5 FHD
+http://iptv-line.com:7899/demo480472/590587/110459
+#EXTINF:-1,DE: Sky Bundesliga 4 SD
+http://iptv-line.com:7899/demo480472/590587/110458
+#EXTINF:-1,DE: Sky Bundesliga 4 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110457
+#EXTINF:-1,DE: Sky Bundesliga 4 FHD
+http://iptv-line.com:7899/demo480472/590587/110456
+#EXTINF:-1,DE: Sky Bundesliga 3 SD
+http://iptv-line.com:7899/demo480472/590587/110455
+#EXTINF:-1,DE: Sky Bundesliga 3 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110454
+#EXTINF:-1,DE: Sky Bundesliga 3 FHD
+http://iptv-line.com:7899/demo480472/590587/110453
+#EXTINF:-1,DE: Sky Bundesliga 2 SD
+http://iptv-line.com:7899/demo480472/590587/110452
+#EXTINF:-1,DE: Sky Bundesliga 2 HD (ONLY ON MATCHDAY)
+http://iptv-line.com:7899/demo480472/590587/110451
+#EXTINF:-1,DE: Sky Bundesliga 2 FHD
+http://iptv-line.com:7899/demo480472/590587/110450
+#EXTINF:-1,DE: Sky Bundesliga 1 SD
+http://iptv-line.com:7899/demo480472/590587/110449
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://iptv-line.com:7899/demo480472/590587/110448
+#EXTINF:-1,DE: Sky Bundesliga 1 FHD
+http://iptv-line.com:7899/demo480472/590587/110447
+#EXTINF:-1,DE: Auto Motor Sport HD
+http://iptv-line.com:7899/demo480472/590587/68374
+#EXTINF:-1,DE: Sky Select 8 4K
+http://iptv-line.com:7899/demo480472/590587/56879
+#EXTINF:-1,DE: Sky Select 7 4K
+http://iptv-line.com:7899/demo480472/590587/56878
+#EXTINF:-1,DE: Sky Select 6 4K
+http://iptv-line.com:7899/demo480472/590587/56877
+#EXTINF:-1,DE: Sky Select 5 4K
+http://iptv-line.com:7899/demo480472/590587/56876
+#EXTINF:-1,DE: Sky Select 4 4K
+http://iptv-line.com:7899/demo480472/590587/56875
+#EXTINF:-1,DE: Sky Select 3 4K
+http://iptv-line.com:7899/demo480472/590587/56874
+#EXTINF:-1,DE: Sky Select 2 4K
+http://iptv-line.com:7899/demo480472/590587/56873
+#EXTINF:-1,DE: Sky Select 1 4K
+http://iptv-line.com:7899/demo480472/590587/56872
+#EXTINF:-1,DE: BBL Sport 1
+http://iptv-line.com:7899/demo480472/590587/54274
+#EXTINF:-1,DE: BBL Sport 2
+http://iptv-line.com:7899/demo480472/590587/54273
+#EXTINF:-1,DE: BBL Sport 3
+http://iptv-line.com:7899/demo480472/590587/54272
+#EXTINF:-1,DE: BBL Sport 4
+http://iptv-line.com:7899/demo480472/590587/54271
+#EXTINF:-1,DE: Bundesliga 3 - 1
+http://iptv-line.com:7899/demo480472/590587/54270
+#EXTINF:-1,DE: Bundesliga 3 - 2
+http://iptv-line.com:7899/demo480472/590587/54269
+#EXTINF:-1,DE: Bundesliga 3 - 3
+http://iptv-line.com:7899/demo480472/590587/54268
+#EXTINF:-1,DE: Bundesliga 3 - 4
+http://iptv-line.com:7899/demo480472/590587/54267
+#EXTINF:-1,DE: Bundesliga 3 - 5
+http://iptv-line.com:7899/demo480472/590587/54266
+#EXTINF:-1,DE: Bundesliga 3 - 6
+http://iptv-line.com:7899/demo480472/590587/54265
+#EXTINF:-1,DE: Bundesliga 3 - 7
+http://iptv-line.com:7899/demo480472/590587/54264
+#EXTINF:-1,DE: Bundesliga 3 - 8
+http://iptv-line.com:7899/demo480472/590587/54263
+#EXTINF:-1,DE: DEL Sport 1
+http://iptv-line.com:7899/demo480472/590587/54262
+#EXTINF:-1,DE: DEL Sport 2
+http://iptv-line.com:7899/demo480472/590587/54261
+#EXTINF:-1,DE: DEL Sport 3
+http://iptv-line.com:7899/demo480472/590587/54260
+#EXTINF:-1,DE: DEL Sport 4
+http://iptv-line.com:7899/demo480472/590587/54259
+#EXTINF:-1,DE: DEL Sport 5
+http://iptv-line.com:7899/demo480472/590587/54258
+#EXTINF:-1,DE: DEL Sport 6
+http://iptv-line.com:7899/demo480472/590587/54257
+#EXTINF:-1,DE: DEL Sport 7
+http://iptv-line.com:7899/demo480472/590587/54256
+#EXTINF:-1,DE: Sport1 HD (H265/HEVC)
+http://iptv-line.com:7899/demo480472/590587/53850
+#EXTINF:-1,DE: Eurosport 2 HD Xtra (H265/HEVC)
+http://iptv-line.com:7899/demo480472/590587/53848
+#EXTINF:-1,DE: Eurosport 2 HD (H265/HEVC)
+http://iptv-line.com:7899/demo480472/590587/53847
+#EXTINF:-1,DE: Eurosport 1 HD (H265/HEVC)
+http://iptv-line.com:7899/demo480472/590587/53846
+#EXTINF:-1,DE: BUNDESLIGA 1 HD (H265/HEVC)
+http://iptv-line.com:7899/demo480472/590587/53843
+#EXTINF:-1,DE: SKY SPORT 2 HD (H265/HEVC)
+http://iptv-line.com:7899/demo480472/590587/53842
+#EXTINF:-1,DE: SKY SPORT 1 HD (H265/HEVC)
+http://iptv-line.com:7899/demo480472/590587/53841
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 9 HD
+http://iptv-line.com:7899/demo480472/590587/3630
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 8 HD
+http://iptv-line.com:7899/demo480472/590587/3629
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 7 HD
+http://iptv-line.com:7899/demo480472/590587/3628
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 6 HD
+http://iptv-line.com:7899/demo480472/590587/3627
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 5 HD
+http://iptv-line.com:7899/demo480472/590587/3626
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 4 HD
+http://iptv-line.com:7899/demo480472/590587/3625
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 3 HD
+http://iptv-line.com:7899/demo480472/590587/3624
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 2 HD
+http://iptv-line.com:7899/demo480472/590587/3623
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 10 HD
+http://iptv-line.com:7899/demo480472/590587/3631
+#EXTINF:-1,DE: Sky Universal HD
+http://iptv-line.com:7899/demo480472/590587/416
+#EXTINF:-1,DE: Sky Sport News HD
+http://iptv-line.com:7899/demo480472/590587/447
+#EXTINF:-1,DE: Sky Sport 9 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3075
+#EXTINF:-1,DE: Sky Sport 8 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3074
+#EXTINF:-1,DE: Sky Sport 7 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3073
+#EXTINF:-1,DE: Sky Sport 6 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3072
+#EXTINF:-1,DE: Sky Sport 5 HD  ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3071
+#EXTINF:-1,DE: Sky Sport 4 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3070
+#EXTINF:-1,DE: Sky Sport 3 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3069
+#EXTINF:-1,DE: Sky Sport 11 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3077
+#EXTINF:-1,DE: Sky Sport 10 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3076
+#EXTINF:-1,DE: Sky Select 8
+http://iptv-line.com:7899/demo480472/590587/4100
+#EXTINF:-1,DE: Sky Select 7
+http://iptv-line.com:7899/demo480472/590587/4099
+#EXTINF:-1,DE: SKY SELECT 6
+http://iptv-line.com:7899/demo480472/590587/4098
+#EXTINF:-1,DE: SKY SELECT 5
+http://iptv-line.com:7899/demo480472/590587/4097
+#EXTINF:-1,DE: SKY SELECT 4
+http://iptv-line.com:7899/demo480472/590587/4096
+#EXTINF:-1,DE: SKY SELECT 3
+http://iptv-line.com:7899/demo480472/590587/4095
+#EXTINF:-1,DE: SKY SELECT 2
+http://iptv-line.com:7899/demo480472/590587/4094
+#EXTINF:-1,DE: SKY SELECT 1
+http://iptv-line.com:7899/demo480472/590587/4093
+#EXTINF:-1,DE: Sky Hits HD
+http://iptv-line.com:7899/demo480472/590587/414
+#EXTINF:-1,DE: Sky Emotion HD
+http://iptv-line.com:7899/demo480472/590587/418
+#EXTINF:-1,DE: Sky DMAX HD
+http://iptv-line.com:7899/demo480472/590587/453
+#EXTINF:-1,DE: Sky Disney HD
+http://iptv-line.com:7899/demo480472/590587/419
+#EXTINF:-1,DE: Sky Comedy HD
+http://iptv-line.com:7899/demo480472/590587/415
+#EXTINF:-1,DE: Sky Cinema HD
+http://iptv-line.com:7899/demo480472/590587/413
+#EXTINF:-1,DE: SKY CINEMA  24
+http://iptv-line.com:7899/demo480472/590587/932
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://iptv-line.com:7899/demo480472/590587/448
+#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3085
+#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3084
+#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3083
+#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3082
+#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3081
+#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3080
+#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3078
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3079
+#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://iptv-line.com:7899/demo480472/590587/3086
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://iptv-line.com:7899/demo480472/590587/408
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://iptv-line.com:7899/demo480472/590587/933
+#EXTINF:-1,DE: Sky Action HD
+http://iptv-line.com:7899/demo480472/590587/412
+#EXTINF:-1,DE: Bundesliga 1
+http://iptv-line.com:7899/demo480472/590587/951
+#EXTINF:-1,DE: Sky Sport 10 FHD
+http://iptv-line.com:7899/demo480472/590587/6755
+#EXTINF:-1,DE: Sky Sport 11 FHD
+http://iptv-line.com:7899/demo480472/590587/6756
+#EXTINF:-1,DE: Sky Sport 3 FHD
+http://iptv-line.com:7899/demo480472/590587/6748
+#EXTINF:-1,DE: Sky Sport 4 FHD
+http://iptv-line.com:7899/demo480472/590587/6749
+#EXTINF:-1,DE: Sky Sport 5 FHD
+http://iptv-line.com:7899/demo480472/590587/6750
+#EXTINF:-1,DE: Sky Sport 6 FHD
+http://iptv-line.com:7899/demo480472/590587/6751
+#EXTINF:-1,DE: Sky Sport 7 FHD
+http://iptv-line.com:7899/demo480472/590587/6752
+#EXTINF:-1,DE: Sky Sport 8 FHD
+http://iptv-line.com:7899/demo480472/590587/6753
+#EXTINF:-1,DE: Sky Sport 9 FHD
+http://iptv-line.com:7899/demo480472/590587/6754
+#EXTINF:-1,DE: Sky Sport News FHD
+http://iptv-line.com:7899/demo480472/590587/6745
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 FHD
+http://iptv-line.com:7899/demo480472/590587/6803
+#EXTINF:-1,DE: Sport 1 US
+http://iptv-line.com:7899/demo480472/590587/6982
+#EXTINF:-1,DE: Sport 1+ HD
+http://iptv-line.com:7899/demo480472/590587/6980
+#EXTINF:-1,DE: Sport Digital HD
+http://iptv-line.com:7899/demo480472/590587/6981
+#EXTINF:-1,DE: Sky Sport Fanzone FHD
+http://iptv-line.com:7899/demo480472/590587/7224
+#EXTINF:-1,DE: SPORT1 FHD
+http://iptv-line.com:7899/demo480472/590587/7223
+#EXTINF:-1,DE: Sky Sport News HD 1080P
+http://iptv-line.com:7899/demo480472/590587/7513
+#EXTINF:-1,DE: Eurosport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/7590
+#EXTINF:-1,DE: Bundesliga 2 FHD (BackUp)
+http://iptv-line.com:7899/demo480472/590587/8123
+#EXTINF:-1,DE: Sky Bundesliga 1 HD ( during match )
+http://iptv-line.com:7899/demo480472/590587/8145
+#EXTINF:-1,DE: Sky Bundesliga 10 HD ( during match )
+http://iptv-line.com:7899/demo480472/590587/8136
+#EXTINF:-1,DE: Sky Bundesliga 2 HD ( during match )
+http://iptv-line.com:7899/demo480472/590587/8144
+#EXTINF:-1,DE: Sky Bundesliga 3 HD ( during match )
+http://iptv-line.com:7899/demo480472/590587/8143
+#EXTINF:-1,DE: Sky Bundesliga 4 HD ( during match )
+http://iptv-line.com:7899/demo480472/590587/8142
+#EXTINF:-1,DE: Sky Bundesliga 5 HD ( during match )
+http://iptv-line.com:7899/demo480472/590587/8141
+#EXTINF:-1,DE: Sky Bundesliga 6 HD ( during match )
+http://iptv-line.com:7899/demo480472/590587/8140
+#EXTINF:-1,DE: Sky Bundesliga 7 HD ( during match )
+http://iptv-line.com:7899/demo480472/590587/8139
+#EXTINF:-1,DE: Sky Bundesliga 8 HD ( during match )
+http://iptv-line.com:7899/demo480472/590587/8138
+#EXTINF:-1,DE: Sky Bundesliga 9 HD ( during match )
+http://iptv-line.com:7899/demo480472/590587/8137
+#EXTINF:-1,DE: Sky Sport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/8273
+#EXTINF:-1,DE: EUROSPORT 2 XTRA FHD
+http://iptv-line.com:7899/demo480472/590587/13180
+#EXTINF:-1,DE: EUROSPORT 2 XTRA HD
+http://iptv-line.com:7899/demo480472/590587/13181
+#EXTINF:-1,DE: EUROSPORT 2 XTRA SD
+http://iptv-line.com:7899/demo480472/590587/13182
+#EXTINF:-1,DE: Sport 1  HD
+http://iptv-line.com:7899/demo480472/590587/511
+#EXTINF:-1,DE: Sky Sport Austria
+http://iptv-line.com:7899/demo480472/590587/931
+#EXTINF:-1,DE: Sky Nostalgie
+http://iptv-line.com:7899/demo480472/590587/513
+#EXTINF:-1,DE: Sky Krimi
+http://iptv-line.com:7899/demo480472/590587/514
+#EXTINF:-1,DE : Sky Atlantic HD
+http://iptv-line.com:7899/demo480472/590587/515
+#EXTINF:-1,DE: Sky atlantic
+http://iptv-line.com:7899/demo480472/590587/935
+#EXTINF:-1,DE : Eurosport 1 HD
+http://iptv-line.com:7899/demo480472/590587/521
+#EXTINF:-1,DE: Sky Sport 3 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29164
+#EXTINF:-1,DE: Sky Sport 4 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29162
+#EXTINF:-1,DE: Sky Sport 5 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29160
+#EXTINF:-1,DE: Sky Sport 6 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29158
+#EXTINF:-1,DE: Sky Sport 7 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29156
+#EXTINF:-1,DE: Sky Sport 8 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29154
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29151
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29136
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29149
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29147
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29145
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29139
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29138
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29137
+#EXTINF:-1,DE: Sky Bundesliga 1 SD
+http://iptv-line.com:7899/demo480472/590587/31548
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+http://iptv-line.com:7899/demo480472/590587/31546
+#EXTINF:-1,DE: Sky Bundesliga 2 SD
+http://iptv-line.com:7899/demo480472/590587/31547
+#EXTINF:-1,DE: Auto Motor Sport FHD
+http://iptv-line.com:7899/demo480472/590587/33778
+#EXTINF:-1,DE: SKY SPORT 1 (2K)
+http://iptv-line.com:7899/demo480472/590587/49788
+#EXTINF:-1,DE: SKY SPORT 2 (2K)
+http://iptv-line.com:7899/demo480472/590587/49789
+#EXTINF:-1,DE: BUNDESLIGA 1 (2K)
+http://iptv-line.com:7899/demo480472/590587/49790
+#EXTINF:-1,DE: EUROSPORT 1 (2K)
+http://iptv-line.com:7899/demo480472/590587/49793
+#EXTINF:-1,DE: EUROSPORT 2 (2K)
+http://iptv-line.com:7899/demo480472/590587/49794
+#EXTINF:-1,DE: EUROSPORT 2 XTRA HD+
+http://iptv-line.com:7899/demo480472/590587/49797
+#EXTINF:-1,DE: SKY SPORT AUSTRIA 3 HD+
+http://iptv-line.com:7899/demo480472/590587/49800
+#EXTINF:-1,DE: SKY SPORT AUSTRIA 4 HD+
+http://iptv-line.com:7899/demo480472/590587/49801
+#EXTINF:-1,DE: SKY SPORT 3 (HD)
+http://iptv-line.com:7899/demo480472/590587/49804
+#EXTINF:-1,DE: SKY SPORT 4 (HD)
+http://iptv-line.com:7899/demo480472/590587/49805
+#EXTINF:-1,DE: SKY SPORT 5 (HD)
+http://iptv-line.com:7899/demo480472/590587/49806
+#EXTINF:-1,DE: SKY SPORT 6 (HD)
+http://iptv-line.com:7899/demo480472/590587/49807
+#EXTINF:-1,DE: SKY SPORT 7 (HD)
+http://iptv-line.com:7899/demo480472/590587/49808
+#EXTINF:-1,DE: SKY SPORT 8 (HD)
+http://iptv-line.com:7899/demo480472/590587/49809
+#EXTINF:-1,DE: SKY SPORT 9 (HD)
+http://iptv-line.com:7899/demo480472/590587/49810
+#EXTINF:-1,DE: SKY SPORT 10 (HD)
+http://iptv-line.com:7899/demo480472/590587/49811
+#EXTINF:-1,DE: SKY SPORT 11 (HD)
+http://iptv-line.com:7899/demo480472/590587/49812
+#EXTINF:-1,DE: BUNDESLIGA 1 (HD)
+http://iptv-line.com:7899/demo480472/590587/49813
+#EXTINF:-1,DE: BUNDESLIGA 2 (HD)
+http://iptv-line.com:7899/demo480472/590587/49814
+#EXTINF:-1,DE: BUNDESLIGA 3 (HD)
+http://iptv-line.com:7899/demo480472/590587/49815
+#EXTINF:-1,DE: BUNDESLIGA 4 (HD)
+http://iptv-line.com:7899/demo480472/590587/49816
+#EXTINF:-1,DE: BUNDESLIGA 5 (HD)
+http://iptv-line.com:7899/demo480472/590587/49817
+#EXTINF:-1,DE: BUNDESLIGA 6 (HD)
+http://iptv-line.com:7899/demo480472/590587/49818
+#EXTINF:-1,DE: BUNDESLIGA 7 (HD)
+http://iptv-line.com:7899/demo480472/590587/49819
+#EXTINF:-1,DE: BUNDESLIGA 8 (HD)
+http://iptv-line.com:7899/demo480472/590587/49820
+#EXTINF:-1,DE: BUNDESLIGA 9 (HD)
+http://iptv-line.com:7899/demo480472/590587/49821
+#EXTINF:-1,DE: BUNDESLIGA 10 (HD)
+http://iptv-line.com:7899/demo480472/590587/49822
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 5HD
+http://iptv-line.com:7899/demo480472/590587/2496
+#EXTINF:-1,PT: SPORT TV 5
+http://iptv-line.com:7899/demo480472/590587/3997
+#EXTINF:-1,PT: SPORT TV 4HD
+http://iptv-line.com:7899/demo480472/590587/2495
+#EXTINF:-1,PT: SPORT TV 4
+http://iptv-line.com:7899/demo480472/590587/3995
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://iptv-line.com:7899/demo480472/590587/3994
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://iptv-line.com:7899/demo480472/590587/3993
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://iptv-line.com:7899/demo480472/590587/3992
+#EXTINF:-1,PT: SPORT TV 1 HD 1080
+http://iptv-line.com:7899/demo480472/590587/7049
+#EXTINF:-1,PT: SPORT TV 2 HD 1080
+http://iptv-line.com:7899/demo480472/590587/7043
+#EXTINF:-1,PT: SPORT TV 3 HD 1080
+http://iptv-line.com:7899/demo480472/590587/7042
+#EXTINF:-1,PT: SPORT TV 4 HD 1080
+http://iptv-line.com:7899/demo480472/590587/7041
+#EXTINF:-1,PT: SPORT TV 5 HD 1080
+http://iptv-line.com:7899/demo480472/590587/7040
+#EXTINF:-1,PT: Sport TV 1 backup
+http://iptv-line.com:7899/demo480472/590587/16741
+#EXTINF:-1,PT: Sport TV 1 HD backup
+http://iptv-line.com:7899/demo480472/590587/16740
+#EXTINF:-1,PT: Sport TV 2 backup
+http://iptv-line.com:7899/demo480472/590587/16739
+#EXTINF:-1,PT: Sport TV 2 HD backup
+http://iptv-line.com:7899/demo480472/590587/16738
+#EXTINF:-1,PT: Sport TV 3 backup
+http://iptv-line.com:7899/demo480472/590587/16737
+#EXTINF:-1,PT: Sport TV 3 HD backup
+http://iptv-line.com:7899/demo480472/590587/16736
+#EXTINF:-1,PT: Sport TV 4 backup
+http://iptv-line.com:7899/demo480472/590587/16735
+#EXTINF:-1,PT: Sport TV 4 HD backup
+http://iptv-line.com:7899/demo480472/590587/16734
+#EXTINF:-1,PT: Sport TV 5 backup
+http://iptv-line.com:7899/demo480472/590587/16733
+#EXTINF:-1,PT: Sport TV 5 HD backup
+http://iptv-line.com:7899/demo480472/590587/16732
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://iptv-line.com:7899/demo480472/590587/29089
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://iptv-line.com:7899/demo480472/590587/29088
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://iptv-line.com:7899/demo480472/590587/29087
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://iptv-line.com:7899/demo480472/590587/29086
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://iptv-line.com:7899/demo480472/590587/29085
+#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
+http://iptv-line.com:7899/demo480472/590587/29084
+#EXTINF:-1,PT: Eleven Sports 1 backup
+http://iptv-line.com:7899/demo480472/590587/29125
+#EXTINF:-1,PT: Eleven Sports 2 backup
+http://iptv-line.com:7899/demo480472/590587/29124
+#EXTINF:-1,PT: Eleven Sports 3 backup
+http://iptv-line.com:7899/demo480472/590587/29123
+#EXTINF:-1,PT: Eleven Sports 4 HD backup
+http://iptv-line.com:7899/demo480472/590587/29122
+#EXTINF:-1,PT: Eleven Sports 5 backup
+http://iptv-line.com:7899/demo480472/590587/29121
+#EXTINF:-1,PT: Eleven Sports 6 HD backup
+http://iptv-line.com:7899/demo480472/590587/29120
+#EXTINF:-1 group-title="EURO FOOTBALL",RO: DIGI Sport 1 [Multi-Audio]
+http://iptv-line.com:7899/demo480472/590587/40393
+#EXTINF:-1,RO: DIGI Sport 1 FHD
+http://iptv-line.com:7899/demo480472/590587/17242
+#EXTINF:-1,RO: Digi Sport 2
+http://iptv-line.com:7899/demo480472/590587/4482
+#EXTINF:-1,RO: DIGI Sport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/17241
+#EXTINF:-1,RO: DIGI Sport 2 [Multi-Audio]
+http://iptv-line.com:7899/demo480472/590587/40392
+#EXTINF:-1,RO: DIGI Sport 3 FHD
+http://iptv-line.com:7899/demo480472/590587/17240
+#EXTINF:-1,RO: DIGI Sport 3 [Multi-Audio]
+http://iptv-line.com:7899/demo480472/590587/40391
+#EXTINF:-1,RO: Digi Sport 3
+http://iptv-line.com:7899/demo480472/590587/4483
+#EXTINF:-1,RO: Digi Sport 4
+http://iptv-line.com:7899/demo480472/590587/4484
+#EXTINF:-1,RO: EUROSPORT 1
+http://iptv-line.com:7899/demo480472/590587/4495
+#EXTINF:-1,RO: Eurosport 1 FHD
+http://iptv-line.com:7899/demo480472/590587/17236
+#EXTINF:-1,RO: EUROSPORT 2
+http://iptv-line.com:7899/demo480472/590587/4494
+#EXTINF:-1,RO: Eurosport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/17235
+#EXTINF:-1,RUS: MATTsch! FUTBOL 1 HD
+http://iptv-line.com:7899/demo480472/590587/52395
+#EXTINF:-1,RUS: Match Futbol 1 HD
+http://iptv-line.com:7899/demo480472/590587/4927
+#EXTINF:-1,RUS: MATTsch! FUTBOL 1
+http://iptv-line.com:7899/demo480472/590587/52324
+#EXTINF:-1,RUS: MATTsch! FUTBOL 2 HD
+http://iptv-line.com:7899/demo480472/590587/52394
+#EXTINF:-1,RUS: Match Futbol 2 HD
+http://iptv-line.com:7899/demo480472/590587/4928
+#EXTINF:-1,RUS: MATTsch! FUTBOL 2
+http://iptv-line.com:7899/demo480472/590587/52325
+#EXTINF:-1,RUS: MATTsch! FUTBOL 3
+http://iptv-line.com:7899/demo480472/590587/52326
+#EXTINF:-1,RUS: Match Futbol 3 HD
+http://iptv-line.com:7899/demo480472/590587/4929
+#EXTINF:-1,RUS: MATTsch! FUTBOL 3 HD
+http://iptv-line.com:7899/demo480472/590587/52398
+#EXTINF:-1,Futbol-2 UA
+http://iptv-line.com:7899/demo480472/590587/52204
+#EXTINF:-1,Futbol-1 UA
+http://iptv-line.com:7899/demo480472/590587/52203
+#EXTINF:-1,Futbol 2 HD UA
+http://iptv-line.com:7899/demo480472/590587/52202
+#EXTINF:-1,Futbol 1 HD UA
+http://iptv-line.com:7899/demo480472/590587/52201
+#EXTINF:-1,BG: Diema Spor 1
+http://iptv-line.com:7899/demo480472/590587/7119
+#EXTINF:-1,BG: Diema Spor 2
+http://iptv-line.com:7899/demo480472/590587/7118
+#EXTINF:-1,BG: Diema Spor 1
+http://iptv-line.com:7899/demo480472/590587/7119
+#EXTINF:-1,BG: Diema Spor 2
+http://iptv-line.com:7899/demo480472/590587/7118
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://iptv-line.com:7899/demo480472/590587/409
+#EXTINF:-1,DE: Sky Sport 1 HD 1080P
+http://iptv-line.com:7899/demo480472/590587/7524
+#EXTINF:-1,DE: Sky Sport 1 Backup
+http://iptv-line.com:7899/demo480472/590587/29169
+#EXTINF:-1,DE: Sky Sport 1 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29168
+#EXTINF:-1,DE: SKY SPORT 1 (HD)
+http://iptv-line.com:7899/demo480472/590587/49802
+#EXTINF:-1,VIP DE: Sky Sport 1 HD (1080P)
+http://iptv-line.com:7899/demo480472/590587/6746
+#EXTINF:-1,VIP DE: Sky Sport 2 HD (1080P)
+http://iptv-line.com:7899/demo480472/590587/6747
+#EXTINF:-1,DE: Sky Sport 2 HD 1080P
+http://iptv-line.com:7899/demo480472/590587/7523
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://iptv-line.com:7899/demo480472/590587/410
+#EXTINF:-1,DE: Sky Sport 2 HD Backup
+http://iptv-line.com:7899/demo480472/590587/29166
+#EXTINF:-1,DE: SKY SPORT AUSTRIA 1 HD+
+http://iptv-line.com:7899/demo480472/590587/49798
+#EXTINF:-1,DE: SKY SPORT AUSTRIA 2 HD+
+http://iptv-line.com:7899/demo480472/590587/49799
+#EXTINF:-1,DE: SKY SPORT 2 (HD)
+http://iptv-line.com:7899/demo480472/590587/49803
+#EXTINF:-1,NL: FOX Sports 2 HD
+http://iptv-line.com:7899/demo480472/590587/5645
+#EXTINF:-1,NL: Sport 1 Voetbal
+http://iptv-line.com:7899/demo480472/590587/150
+#EXTINF:-1,NL : Ziggo Sport.Voetbal
+http://iptv-line.com:7899/demo480472/590587/3891
+#EXTINF:-1,NL: Ziggo Sport Voetbal FHD
+http://iptv-line.com:7899/demo480472/590587/46595
+#EXTINF:-1,NL: Fox Sports 1
+http://iptv-line.com:7899/demo480472/590587/157
+#EXTINF:-1,NL: FOX Sports 1 FHD 1080
+http://iptv-line.com:7899/demo480472/590587/5644
+#EXTINF:-1,NL: Fox Sports 2
+http://iptv-line.com:7899/demo480472/590587/156
+#EXTINF:-1,NL: Fox Sports 3
+http://iptv-line.com:7899/demo480472/590587/155
+#EXTINF:-1,NL: FOX Sports 3 HD ( 1080P )
+http://iptv-line.com:7899/demo480472/590587/7474
+#EXTINF:-1,NL: Fox Sports 4
+http://iptv-line.com:7899/demo480472/590587/154
+#EXTINF:-1,NL: Fox Sports 4 HD ( 1080P )
+http://iptv-line.com:7899/demo480472/590587/7475
+#EXTINF:-1,NL: Fox Sports 5
+http://iptv-line.com:7899/demo480472/590587/153
+#EXTINF:-1,NL: Fox Sports 5 HD ( 1080P )
+http://iptv-line.com:7899/demo480472/590587/7476
+#EXTINF:-1,NL: Fox Sports 6
+http://iptv-line.com:7899/demo480472/590587/152
+#EXTINF:-1,DK: VIASAT FOTBOLL
+http://iptv-line.com:7899/demo480472/590587/2978
+#EXTINF:-1,DK : TV 3 SPORT 1
+http://iptv-line.com:7899/demo480472/590587/3094
+#EXTINF:-1,DK: TV3 SPORT 1
+http://iptv-line.com:7899/demo480472/590587/2969
+#EXTINF:-1,DK: TV 2 SPORT
+http://iptv-line.com:7899/demo480472/590587/3097
+#EXTINF:-1,DK: TV 3 SPORT 2
+http://iptv-line.com:7899/demo480472/590587/3093
+#EXTINF:-1,DK: C More Sport
+http://iptv-line.com:7899/demo480472/590587/2989
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://iptv-line.com:7899/demo480472/590587/160
+#EXTINF:-1,PT: SPORT TV 1 HD 1080
+http://iptv-line.com:7899/demo480472/590587/7049
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://iptv-line.com:7899/demo480472/590587/3992
+#EXTINF:-1,PT: Sport TV 1 backup
+http://iptv-line.com:7899/demo480472/590587/16741
+#EXTINF:-1,PT: Sport TV 1 HD backup
+http://iptv-line.com:7899/demo480472/590587/16740
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://iptv-line.com:7899/demo480472/590587/3993
+#EXTINF:-1,PT: SPORT TV 2 HD 1080
+http://iptv-line.com:7899/demo480472/590587/7043
+#EXTINF:-1,PT: SPORT TV 2 HD(1)
+http://iptv-line.com:7899/demo480472/590587/159
+#EXTINF:-1,PT: Sport TV 2 backup
+http://iptv-line.com:7899/demo480472/590587/16739
+#EXTINF:-1,PT: Sport TV 2 HD backup
+http://iptv-line.com:7899/demo480472/590587/16738
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://iptv-line.com:7899/demo480472/590587/3994
+#EXTINF:-1,PT: SPORT TV 3 HD 1080
+http://iptv-line.com:7899/demo480472/590587/7042
+#EXTINF:-1,PT: Sport TV 3 backup
+http://iptv-line.com:7899/demo480472/590587/16737
+#EXTINF:-1,PT: Sport TV 3 HD backup
+http://iptv-line.com:7899/demo480472/590587/16736
+#EXTINF:-1,PT: SPORT TV 4HD
+http://iptv-line.com:7899/demo480472/590587/2495
+#EXTINF:-1,PT: SPORT TV 4
+http://iptv-line.com:7899/demo480472/590587/3995
+#EXTINF:-1,PT: SPORT TV 4 HD 1080
+http://iptv-line.com:7899/demo480472/590587/7041
+#EXTINF:-1,PT: Sport TV 4 backup
+http://iptv-line.com:7899/demo480472/590587/16735
+#EXTINF:-1,PT: Sport TV 4 HD backup
+http://iptv-line.com:7899/demo480472/590587/16734
+#EXTINF:-1,PT: SPORT TV 5HD
+http://iptv-line.com:7899/demo480472/590587/2496
+#EXTINF:-1,PT: SPORT TV 5
+http://iptv-line.com:7899/demo480472/590587/3997
+#EXTINF:-1,PT: SPORT TV 5 HD 1080
+http://iptv-line.com:7899/demo480472/590587/7040
+#EXTINF:-1,PT: Sport TV 5 backup
+http://iptv-line.com:7899/demo480472/590587/16733
+#EXTINF:-1,PT: Sport TV 5 HD backup
+http://iptv-line.com:7899/demo480472/590587/16732
+#EXTINF:-1,SE: C More Fotboll
+http://iptv-line.com:7899/demo480472/590587/18873
+#EXTINF:-1,SE: Viasat Fotboll
+http://iptv-line.com:7899/demo480472/590587/31218
+#EXTINF:-1,SE: Viasat Fotboll HD
+http://iptv-line.com:7899/demo480472/590587/31219
+#EXTINF:-1,SE: C More Fotboll HD
+http://iptv-line.com:7899/demo480472/590587/31873
+#EXTINF:-1,TR: beIN SPORTS 1 HD ?
+http://iptv-line.com:7899/demo480472/590587/16160
+#EXTINF:-1,TR: BEIN SPORT 1 FHD
+http://iptv-line.com:7899/demo480472/590587/26475
+#EXTINF:-1,TR: BEIN SPORT 1HD
+http://iptv-line.com:7899/demo480472/590587/26476
+#EXTINF:-1,TR: Bein sports 1 HD (Backup)
+http://iptv-line.com:7899/demo480472/590587/19304
+#EXTINF:-1,TR: beIN SPORTS 2 HD
+http://iptv-line.com:7899/demo480472/590587/16159
+#EXTINF:-1,TR: BEIN SPORT 2 FHD
+http://iptv-line.com:7899/demo480472/590587/26474
+#EXTINF:-1,TR: BEIN SPORT 2 HD
+http://iptv-line.com:7899/demo480472/590587/26469
+#EXTINF:-1,TR: Bein sports 2 HD (Backup)
+http://iptv-line.com:7899/demo480472/590587/19303
+#EXTINF:-1,TR: beIN SPORTS 3 HD
+http://iptv-line.com:7899/demo480472/590587/16161
+#EXTINF:-1,TR: BEIN SPORT 3 FHD
+http://iptv-line.com:7899/demo480472/590587/26473
+#EXTINF:-1,TR: BEIN SPORT 3 HD
+http://iptv-line.com:7899/demo480472/590587/26468
+#EXTINF:-1,TR: Bein sports 3 HD (Backup)
+http://iptv-line.com:7899/demo480472/590587/19302
+#EXTINF:-1,TR: beIN SPORTS 4 HD
+http://iptv-line.com:7899/demo480472/590587/16162
+#EXTINF:-1,TR: Bein sports 4 HD (Backup)
+http://iptv-line.com:7899/demo480472/590587/19301
+#EXTINF:-1,TR: BEIN SPORT 4 FHD
+http://iptv-line.com:7899/demo480472/590587/26472
+#EXTINF:-1,TR: BEIN SPORT 4 HD
+http://iptv-line.com:7899/demo480472/590587/26467
+#EXTINF:-1,TR: TIVIBUSPOR 1 HD
+http://iptv-line.com:7899/demo480472/590587/4246
+#EXTINF:-1,TR: TIVIBU SPORT 1 FHD
+http://iptv-line.com:7899/demo480472/590587/26928
+#EXTINF:-1,TR: TIVIBU SPOR 2 HD
+http://iptv-line.com:7899/demo480472/590587/4247
+#EXTINF:-1,TR: TIVIBU SPORT 2 FHD
+http://iptv-line.com:7899/demo480472/590587/26929
+#EXTINF:-1,TR: TIVIBU SPOR 3 HD
+http://iptv-line.com:7899/demo480472/590587/4248
+#EXTINF:-1,TR: TIVIBU SPORT 3 FHD
+http://iptv-line.com:7899/demo480472/590587/26930
+#EXTINF:-1,TR: TIVIBUSPOR 4 HD
+http://iptv-line.com:7899/demo480472/590587/4249
+#EXTINF:-1,TR: TIVIBU SPORT 4 FHD
+http://iptv-line.com:7899/demo480472/590587/26931
+#EXTINF:-1,TR: TRT SPOR SD/HD
+http://iptv-line.com:7899/demo480472/590587/4256
+#EXTINF:-1,TR: beIN SPORTS MAX 1 HD
+http://iptv-line.com:7899/demo480472/590587/17625
+#EXTINF:-1,TR: beIN SPORTS MAX 2 HD
+http://iptv-line.com:7899/demo480472/590587/17626
+#EXTINF:-1,TR: BEIN SPORT MAX 1 HD
+http://iptv-line.com:7899/demo480472/590587/26466
+#EXTINF:-1,TR: BEIN SPORT MAX 2 HD
+http://iptv-line.com:7899/demo480472/590587/26465
+#EXTINF:-1,TR: SMART SPOR TR FHD
+http://iptv-line.com:7899/demo480472/590587/26926
+#EXTINF:-1,TR: S SPORT HD
+http://iptv-line.com:7899/demo480472/590587/11793
+#EXTINF:-1 group-title="I FOLLOW",UK: iFollow Sport Premiere League H
+http://iptv-line.com:7899/demo480472/590587/49307
+#EXTINF:-1,UK: iFollow 1 HD
+http://iptv-line.com:7899/demo480472/590587/49298
+#EXTINF:-1,UK: iFollow 2 HD
+http://iptv-line.com:7899/demo480472/590587/49299
+#EXTINF:-1,UK: iFollow 3 HD
+http://iptv-line.com:7899/demo480472/590587/49300
+#EXTINF:-1,UK: iFollow 4 HD
+http://iptv-line.com:7899/demo480472/590587/49301
+#EXTINF:-1,UK: iFollow 5 HD
+http://iptv-line.com:7899/demo480472/590587/49302
+#EXTINF:-1,UK: iFollow 6 HD
+http://iptv-line.com:7899/demo480472/590587/49303
+#EXTINF:-1,UK: iFollow 10 HD
+http://iptv-line.com:7899/demo480472/590587/49304
+#EXTINF:-1,UK: iFollow Sport 1 HD
+http://iptv-line.com:7899/demo480472/590587/49305
+#EXTINF:-1,UK: iFollow Sport 2 HD
+http://iptv-line.com:7899/demo480472/590587/49306
+#EXTINF:-1 group-title="ROMANIA",RO: Eurosport 1 FHD
+http://iptv-line.com:7899/demo480472/590587/17236
+#EXTINF:-1,RO: EUROSPORT 1
+http://iptv-line.com:7899/demo480472/590587/4495
+#EXTINF:-1,RO: Eurosport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/17235
+#EXTINF:-1,RO: EUROSPORT 2
+http://iptv-line.com:7899/demo480472/590587/4494
+#EXTINF:-1,RO: Digi Sport 1
+http://iptv-line.com:7899/demo480472/590587/4481
+#EXTINF:-1,RO: DIGI Sport 1 FHD
+http://iptv-line.com:7899/demo480472/590587/17242
+#EXTINF:-1,RO: DIGI Sport 1 [Multi-Audio]
+http://iptv-line.com:7899/demo480472/590587/40393
+#EXTINF:-1,RO: Digi Sport 2
+http://iptv-line.com:7899/demo480472/590587/4482
+#EXTINF:-1,RO: DIGI Sport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/17241
+#EXTINF:-1,RO: DIGI Sport 2 [Multi-Audio]
+http://iptv-line.com:7899/demo480472/590587/40392
+#EXTINF:-1,RO: Digi Sport 3
+http://iptv-line.com:7899/demo480472/590587/4483
+#EXTINF:-1,RO: DIGI Sport 3 FHD
+http://iptv-line.com:7899/demo480472/590587/17240
+#EXTINF:-1,RO: DIGI Sport 3 [Multi-Audio]
+http://iptv-line.com:7899/demo480472/590587/40391
+#EXTINF:-1,RO: Digi Sport 4
+http://iptv-line.com:7899/demo480472/590587/4484
+#EXTINF:-1 group-title="ISREAL",IL: YES Sport1
+http://iptv-line.com:7899/demo480472/590587/14452
+#EXTINF:-1,Sport 1
+http://iptv-line.com:7899/demo480472/590587/51858
+#EXTINF:-1,Sport 1
+http://iptv-line.com:7899/demo480472/590587/51857
+#EXTINF:-1,Sport 2
+http://iptv-line.com:7899/demo480472/590587/51860
+#EXTINF:-1,Sport 2
+http://iptv-line.com:7899/demo480472/590587/51859
+#EXTINF:-1,Sport 3
+http://iptv-line.com:7899/demo480472/590587/51862
+#EXTINF:-1,Sport 3
+http://iptv-line.com:7899/demo480472/590587/51861
+#EXTINF:-1,Sport 4
+http://iptv-line.com:7899/demo480472/590587/51864
+#EXTINF:-1,Sport 4
+http://iptv-line.com:7899/demo480472/590587/51863
+#EXTINF:-1,Sport 5 Gold
+http://iptv-line.com:7899/demo480472/590587/51867
+#EXTINF:-1,Sport 5
+http://iptv-line.com:7899/demo480472/590587/51866
+#EXTINF:-1,Sport 5
+http://iptv-line.com:7899/demo480472/590587/51865
+#EXTINF:-1,Sport 5 Live
+http://iptv-line.com:7899/demo480472/590587/51870
+#EXTINF:-1,Sport 5 Live
+http://iptv-line.com:7899/demo480472/590587/51869
+#EXTINF:-1,Sport 5 Gold
+http://iptv-line.com:7899/demo480472/590587/51868
+#EXTINF:-1,Sport 5 Stars
+http://iptv-line.com:7899/demo480472/590587/51874
+#EXTINF:-1,Sport 5 Stars
+http://iptv-line.com:7899/demo480472/590587/51873
+#EXTINF:-1,Sport 5 Plus
+http://iptv-line.com:7899/demo480472/590587/51872
+#EXTINF:-1,Sport 5 Plus
+http://iptv-line.com:7899/demo480472/590587/51871
+#EXTINF:-1,Sport ONE 2
+http://iptv-line.com:7899/demo480472/590587/51878
+#EXTINF:-1,Sport ONE 2
+http://iptv-line.com:7899/demo480472/590587/51877
+#EXTINF:-1,Sport ONE
+http://iptv-line.com:7899/demo480472/590587/51876
+#EXTINF:-1,Sport ONE
+http://iptv-line.com:7899/demo480472/590587/51875
+#EXTINF:-1 group-title="MUTV",UK: MUTV
+http://iptv-line.com:7899/demo480472/590587/50761
+#EXTINF:-1,UK: MUTV
+http://iptv-line.com:7899/demo480472/590587/758
+#EXTINF:-1,UK: MUTV Backup
+http://iptv-line.com:7899/demo480472/590587/7686
+#EXTINF:-1,UK: MUTV FHD
+http://iptv-line.com:7899/demo480472/590587/7995
+#EXTINF:-1,UK: Manchester United TV
+http://iptv-line.com:7899/demo480472/590587/433
+#EXTINF:-1 group-title="UK TV",UK: ITV4
+http://iptv-line.com:7899/demo480472/590587/379
+#EXTINF:-1,UK: ITV1
+http://iptv-line.com:7899/demo480472/590587/382
+#EXTINF:-1,UK: BBC 1 FHD
+http://iptv-line.com:7899/demo480472/590587/50783
+#EXTINF:-1,UK: BBC 4 HD
+http://iptv-line.com:7899/demo480472/590587/385
+#EXTINF:-1,UK: BBC TWO HD
+http://iptv-line.com:7899/demo480472/590587/852
+#EXTINF:-1,UK BBC ONE HD
+http://iptv-line.com:7899/demo480472/590587/185
+#EXTINF:-1,UK: BBC 1 FHD
+http://iptv-line.com:7899/demo480472/590587/26857
+#EXTINF:-1,UK: BBC 2 FHD
+http://iptv-line.com:7899/demo480472/590587/26856
+#EXTINF:-1,UK: BBC TWO WALES
+http://iptv-line.com:7899/demo480472/590587/47196
+#EXTINF:-1,UK: Channel 4
+http://iptv-line.com:7899/demo480472/590587/5811
+#EXTINF:-1,UK: CHANNEL 4 FHD
+http://iptv-line.com:7899/demo480472/590587/18041
+#EXTINF:-1,UK: Channel 4 HD
+http://iptv-line.com:7899/demo480472/590587/5810
+#EXTINF:-1,UK: CHANNEL 5
+http://iptv-line.com:7899/demo480472/590587/5813
+#EXTINF:-1,UK: CHANNEL 5 FHD
+http://iptv-line.com:7899/demo480472/590587/5812
+#EXTINF:-1,UK: ITV  1
+http://iptv-line.com:7899/demo480472/590587/29480
+#EXTINF:-1,UK: ITV 4 FHD
+http://iptv-line.com:7899/demo480472/590587/26858
+#EXTINF:-1,UK: S4C
+http://iptv-line.com:7899/demo480472/590587/18140
+#EXTINF:-1,UK: SKY ONE FHD
+http://iptv-line.com:7899/demo480472/590587/17976
+#EXTINF:-1 group-title="NBCSN PLUS",US: NBCSN FHD
+http://iptv-line.com:7899/demo480472/590587/46808
+#EXTINF:-1,US: NBCSN HD
+http://iptv-line.com:7899/demo480472/590587/17200
+#EXTINF:-1,US: NBCSN HD 1080P
+http://iptv-line.com:7899/demo480472/590587/8548
+#EXTINF:-1,US: NBC Gold 01 FHD
+http://iptv-line.com:7899/demo480472/590587/31152
+#EXTINF:-1,US: NBC Gold 02 FHD
+http://iptv-line.com:7899/demo480472/590587/31151
+#EXTINF:-1,US: NBC Gold 03 FHD
+http://iptv-line.com:7899/demo480472/590587/31150
+#EXTINF:-1,US: NBC Gold 04 FHD
+http://iptv-line.com:7899/demo480472/590587/31149
+#EXTINF:-1,US: NBC Gold 05 FHD
+http://iptv-line.com:7899/demo480472/590587/31148
+#EXTINF:-1,US: NBC Gold 06 FHD
+http://iptv-line.com:7899/demo480472/590587/31147
+#EXTINF:-1,US: EPL 1
+http://iptv-line.com:7899/demo480472/590587/26419
+#EXTINF:-1,US: EPL 2
+http://iptv-line.com:7899/demo480472/590587/26418
+#EXTINF:-1,US: EPL 3
+http://iptv-line.com:7899/demo480472/590587/26417
+#EXTINF:-1,US: EPL 4
+http://iptv-line.com:7899/demo480472/590587/26416
+#EXTINF:-1,US: EPL 5
+http://iptv-line.com:7899/demo480472/590587/26415
+#EXTINF:-1,US: EPL 6
+http://iptv-line.com:7899/demo480472/590587/26414
+#EXTINF:-1,US: EPL 7
+http://iptv-line.com:7899/demo480472/590587/26413
+#EXTINF:-1,US: EPL 8
+http://iptv-line.com:7899/demo480472/590587/26412
+#EXTINF:-1,UK: Flow Sports 1 HD [Premier League
+http://iptv-line.com:7899/demo480472/590587/29720
+#EXTINF:-1,UK: Flow Sports 2 HD [Premier League
+http://iptv-line.com:7899/demo480472/590587/29719
+#EXTINF:-1,US: FLOW SPORTS EPL 1 HD-PPV
+http://iptv-line.com:7899/demo480472/590587/31708
+#EXTINF:-1,US: FLOW SPORTS EPL 2 HD-PPV
+http://iptv-line.com:7899/demo480472/590587/31707
+#EXTINF:-1,US: FLOW SPORTS EPL 3 HD-PPV
+http://iptv-line.com:7899/demo480472/590587/31706
+#EXTINF:-1,US: FLOW SPORTS EPL 4 HD-PPV
+http://iptv-line.com:7899/demo480472/590587/31705
+#EXTINF:-1,US: FLOW SPORTS EPL 5 HD-PPV
+http://iptv-line.com:7899/demo480472/590587/31704
+#EXTINF:-1,US: FLOW SPORTS EPL 6 HD-PPV
+http://iptv-line.com:7899/demo480472/590587/31703
+#EXTINF:-1,US: FLOW SPORTS HD
+http://iptv-line.com:7899/demo480472/590587/31702
+#EXTINF:-1,US: FLOW SPORTS P.L HD
+http://iptv-line.com:7899/demo480472/590587/31701
+#EXTINF:-1 group-title="BOX OFFICE",Live Events PPV 1 VIP Sports
+http://iptv-line.com:7899/demo215789/731575/111673
+#EXTINF:-1,Live Events PPV 2 VIP Sports
+http://iptv-line.com:7899/demo215789/731575/111675
+#EXTINF:-1,Live Events PPV 5 VIP Sports
+http://iptv-line.com:7899/demo215789/731575/111676
+#EXTINF:-1,Live Events PPV 6 VIP Sports
+http://iptv-line.com:7899/demo215789/731575/111677
+#EXTINF:-1,Live Events PPV 8 VIP Sports
+http://iptv-line.com:7899/demo215789/731575/111678
+#EXTINF:-1,Live Events PPV 9 VIP Sports
+http://iptv-line.com:7899/demo215789/731575/111679
+#EXTINF:-1,Live Events PPV 10 VIP Sports
+http://iptv-line.com:7899/demo215789/731575/111674
+#EXTINF:-1,UK: PPV2 SKY SPORTS BOX OFFICE
+http://iptv-line.com:7899/demo480472/590587/50768
+#EXTINF:-1,BOXING OFFICE FHD PPV
+http://iptv-line.com:7899/demo480472/590587/16085
+#EXTINF:-1,BOXING OFFICE SD PPV
+http://iptv-line.com:7899/demo480472/590587/16084
+#EXTINF:-1,UK: SBO PPV {LIVE BOX OFFICE}
+http://iptv-line.com:7899/demo480472/590587/16969
+#EXTINF:-1,UK: SKY SPORTS BOX OFFICE HD
+http://iptv-line.com:7899/demo480472/590587/16083
+#EXTINF:-1,UK: SkySpBoxOff (PPV Events Only)
+http://iptv-line.com:7899/demo480472/590587/5212
+#EXTINF:-1,UK: PPV1 ITV/ BT SPORT BOX OFFICE
+http://iptv-line.com:7899/demo480472/590587/50767
+#EXTINF:-1,UK: ITV BOX OFFICE PPV
+http://iptv-line.com:7899/demo480472/590587/9183
+#EXTINF:-1 group-title="Poland",PL: CANAL SPORT HD 1080P
+http://iptv-line.com:7899/demo480472/590587/6282
+#EXTINF:-1,PL: CANAL SPORTS 2
+http://iptv-line.com:7899/demo480472/590587/6265
+#EXTINF:-1,PL: Eleven Sports FHD
+http://iptv-line.com:7899/demo480472/590587/6287
+#EXTINF:-1,PL: Eurosport 1 HD
+http://iptv-line.com:7899/demo480472/590587/6286
+#EXTINF:-1,PL: POLSAT SPORTS
+http://iptv-line.com:7899/demo480472/590587/6251
+#EXTINF:-1,PL: Polsat Sport Extra
+http://iptv-line.com:7899/demo480472/590587/6250
+#EXTINF:-1,PL: Canal Sport 2 HD 1080P
+http://iptv-line.com:7899/demo480472/590587/6877
+#EXTINF:-1,PL: EUROSPORT 1HD 1080P
+http://iptv-line.com:7899/demo480472/590587/6881
+#EXTINF:-1,PL: Eleven Sports 2 FHD
+http://iptv-line.com:7899/demo480472/590587/17323
+#EXTINF:-1,PL: Eleven Sports 3 FHD
+http://iptv-line.com:7899/demo480472/590587/17322
+#EXTINF:-1,PL: Eleven Sports 4 HD
+http://iptv-line.com:7899/demo480472/590587/17324
+#EXTINF:-1,PL: CANAL  Sport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/30884
+#EXTINF:-1,PL: CANAL  Sport FHD
+http://iptv-line.com:7899/demo480472/590587/30885
+#EXTINF:-1,PL: Eleven Sports 1 FHD
+http://iptv-line.com:7899/demo480472/590587/30904
+#EXTINF:-1,PL: Eleven Sports 4 FHD
+http://iptv-line.com:7899/demo480472/590587/30905
+#EXTINF:-1,PL: Eurosport
+http://iptv-line.com:7899/demo480472/590587/30909
+#EXTINF:-1,PL: Eurosport 1 FHD
+http://iptv-line.com:7899/demo480472/590587/30908
+#EXTINF:-1,PL: Eurosport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/30907
+#EXTINF:-1,PL: Polsat Sport Extra FHD
+http://iptv-line.com:7899/demo480472/590587/30937
+#EXTINF:-1,PL: Polsat Sport FHD
+http://iptv-line.com:7899/demo480472/590587/30938
+#EXTINF:-1,PL: Polsat Sport Fight FHD
+http://iptv-line.com:7899/demo480472/590587/30936
+#EXTINF:-1,PL: Polsat Sport Premium 1 HD
+http://iptv-line.com:7899/demo480472/590587/30945
+#EXTINF:-1,PL: Polsat Sport Premium 2 HD
+http://iptv-line.com:7899/demo480472/590587/30944
+#EXTINF:-1,PL: Polsat Sport Premium 3 PPV HD
+http://iptv-line.com:7899/demo480472/590587/30943
+#EXTINF:-1,PL: Polsat Sport Premium 4 PPV HD
+http://iptv-line.com:7899/demo480472/590587/30942
+#EXTINF:-1,PL: Polsat Sport Premium 5 PPV HD
+http://iptv-line.com:7899/demo480472/590587/30941
+#EXTINF:-1,PL: Polsat Sport Premium 6 PPV HD
+http://iptv-line.com:7899/demo480472/590587/30940
+#EXTINF:-1,PL: Canal+ Sport 3 FHD
+http://iptv-line.com:7899/demo480472/590587/48808
+#EXTINF:-1,PL: Canal+ Sport 4 FHD
+http://iptv-line.com:7899/demo480472/590587/48807
+#EXTINF:-1 group-title="Norway",NO: TV2 SPORT PREMIUM 2 HD VIP
+http://iptv-line.com:7899/demo480472/590587/110719
+#EXTINF:-1,NO: TV2 SPORT PREMIUM  HD VIP
+http://iptv-line.com:7899/demo480472/590587/110718
+#EXTINF:-1,NO: TV 2 Sport 2 Norway
+http://iptv-line.com:7899/demo480472/590587/110717
+#EXTINF:-1,NO: TV 2 Sport 1 Norway
+http://iptv-line.com:7899/demo480472/590587/110716
+#EXTINF:-1,NO: Viasport 3 HD
+http://iptv-line.com:7899/demo480472/590587/110608
+#EXTINF:-1,NO: Viasport 2 HD
+http://iptv-line.com:7899/demo480472/590587/110607
+#EXTINF:-1,NO: Viasport 1 HD
+http://iptv-line.com:7899/demo480472/590587/110606
+#EXTINF:-1,NO: VIASPORT PLUS HD
+http://iptv-line.com:7899/demo480472/590587/110605
+#EXTINF:-1,NO: TV2 SPORT PREMIUM 2 HD
+http://iptv-line.com:7899/demo480472/590587/110604
+#EXTINF:-1,NO: TV2 SPORT PREMIUM 1 HD
+http://iptv-line.com:7899/demo480472/590587/110603
+#EXTINF:-1,NO: Eurosport Pluss 12 HD
+http://iptv-line.com:7899/demo480472/590587/110602
+#EXTINF:-1,NO: Eurosport Pluss 11 HD
+http://iptv-line.com:7899/demo480472/590587/110601
+#EXTINF:-1,NO: Eurosport Pluss 10 HD
+http://iptv-line.com:7899/demo480472/590587/110600
+#EXTINF:-1,NO: Eurosport Pluss 9 HD
+http://iptv-line.com:7899/demo480472/590587/110599
+#EXTINF:-1,NO: Eurosport Pluss 8 HD
+http://iptv-line.com:7899/demo480472/590587/110598
+#EXTINF:-1,NO: Eurosport Pluss 7 HD
+http://iptv-line.com:7899/demo480472/590587/110597
+#EXTINF:-1,NO: Eurosport Pluss 6 HD
+http://iptv-line.com:7899/demo480472/590587/110596
+#EXTINF:-1,NO: Eurosport Pluss 5 HD
+http://iptv-line.com:7899/demo480472/590587/110595
+#EXTINF:-1,NO: Eurosport Pluss 4 HD
+http://iptv-line.com:7899/demo480472/590587/110594
+#EXTINF:-1,NO: Eurosport Pluss 3 HD
+http://iptv-line.com:7899/demo480472/590587/110593
+#EXTINF:-1,NO: Eurosport Pluss 2 HD
+http://iptv-line.com:7899/demo480472/590587/110592
+#EXTINF:-1,NO: Eurosport Pluss 1 HD
+http://iptv-line.com:7899/demo480472/590587/110591
+#EXTINF:-1,NO: Eurosport 1 FHD
+http://iptv-line.com:7899/demo480472/590587/40484
+#EXTINF:-1,NO: Eurosport 1 HD
+http://iptv-line.com:7899/demo480472/590587/40483
+#EXTINF:-1,NO: Eurosport 2 Norge
+http://iptv-line.com:7899/demo480472/590587/40487
+#EXTINF:-1,NO: Eurosport N HD
+http://iptv-line.com:7899/demo480472/590587/40434
+#EXTINF:-1,NO: EuroSport Norge HD NO
+http://iptv-line.com:7899/demo480472/590587/40488
+#EXTINF:-1,NO: TV2 Sport Premium 1
+http://iptv-line.com:7899/demo480472/590587/40498
+#EXTINF:-1,NO: TV2 Sport Premium 2
+http://iptv-line.com:7899/demo480472/590587/40497
+#EXTINF:-1,NO: TV2 Sportskanalen HD
+http://iptv-line.com:7899/demo480472/590587/40472
+#EXTINF:-1,NO: Viasat Sport East NO
+http://iptv-line.com:7899/demo480472/590587/40491
+#EXTINF:-1,NO: Viasat Sport HD Norge
+http://iptv-line.com:7899/demo480472/590587/40492
+#EXTINF:-1,VIP NO: Eurosport 1 HD
+http://iptv-line.com:7899/demo480472/590587/40496
+#EXTINF:-1,VIP NO: Eurosport N HD
+http://iptv-line.com:7899/demo480472/590587/40495
+#EXTINF:-1 group-title="Sweden",SE: ESports TV Nordic
+http://iptv-line.com:7899/demo480472/590587/110674
+#EXTINF:-1,SE: Strive Sport SEeden HD
+http://iptv-line.com:7899/demo480472/590587/110673
+#EXTINF:-1,SE: VIASAT SPORT XTRA HD
+http://iptv-line.com:7899/demo480472/590587/110670
+#EXTINF:-1,SE: Eurosport 1 HD
+http://iptv-line.com:7899/demo480472/590587/17304
+#EXTINF:-1,SE: EUROSPORT 2
+http://iptv-line.com:7899/demo480472/590587/17305
+#EXTINF:-1,SE: TV4 Sport
+http://iptv-line.com:7899/demo480472/590587/17302
+#EXTINF:-1,SE: Viasat Sport HD
+http://iptv-line.com:7899/demo480472/590587/7535
+#EXTINF:-1,SE: Viasat Sport Premium
+http://iptv-line.com:7899/demo480472/590587/7599
+#EXTINF:-1,SE: Viasat Sport Premium HD
+http://iptv-line.com:7899/demo480472/590587/18818
+#EXTINF:-1,SE: TV2 Sportkanalen
+http://iptv-line.com:7899/demo480472/590587/18212
+#EXTINF:-1,SE: C More Fotboll
+http://iptv-line.com:7899/demo480472/590587/18873
+#EXTINF:-1,SE: C More Sport
+http://iptv-line.com:7899/demo480472/590587/18861
+#EXTINF:-1,SE: Eurosport 1
+http://iptv-line.com:7899/demo480472/590587/18851
+#EXTINF:-1,SE: Eurosport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/18850
+#EXTINF:-1,SE: Viasat Fotboll
+http://iptv-line.com:7899/demo480472/590587/31218
+#EXTINF:-1,SE: Viasat Fotboll HD
+http://iptv-line.com:7899/demo480472/590587/31219
+#EXTINF:-1 group-title="Denmark",DK: TV2 SPORT X
+http://iptv-line.com:7899/demo480472/590587/110635
+#EXTINF:-1,DK: TV2 Sport HD
+http://iptv-line.com:7899/demo480472/590587/56070
+#EXTINF:-1,DK: TV3 SPORT 2
+http://iptv-line.com:7899/demo480472/590587/2970
+#EXTINF:-1,DK: C More Fotboll
+http://iptv-line.com:7899/demo480472/590587/2991
+#EXTINF:-1,DK : TV 3 SPORT 1
+http://iptv-line.com:7899/demo480472/590587/3094
+#EXTINF:-1,DK: TV 3 SPORT 2
+http://iptv-line.com:7899/demo480472/590587/3093
+#EXTINF:-1,DK: TV3 SPORT 1
+http://iptv-line.com:7899/demo480472/590587/2969
+#EXTINF:-1,DK: TV 2 SPORT
+http://iptv-line.com:7899/demo480472/590587/3097
+#EXTINF:-1,DK: VIASAT FOTBOLL
+http://iptv-line.com:7899/demo480472/590587/2978
+#EXTINF:-1,DK: Eurosport 1
+http://iptv-line.com:7899/demo480472/590587/33363
+#EXTINF:-1,DK: Eurosport 2 HD
+http://iptv-line.com:7899/demo480472/590587/33362
+#EXTINF:-1 group-title="Finland",FI: Viasat Sport Premium HD
+http://iptv-line.com:7899/demo480472/590587/110633
+#EXTINF:-1,FI: C More Sport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/110627
+#EXTINF:-1,FI: C More Sport 1 FHD
+http://iptv-line.com:7899/demo480472/590587/110626
+#EXTINF:-1,FI: C More Sport 1 HD
+http://iptv-line.com:7899/demo480472/590587/110622
+#EXTINF:-1,FI: C More Sport 1 HD
+http://iptv-line.com:7899/demo480472/590587/16892
+#EXTINF:-1,FI: C More Sport 2
+http://iptv-line.com:7899/demo480472/590587/16891
+#EXTINF:-1 group-title="Albania",AL: AL K SPORT1
+http://iptv-line.com:7899/demo480472/590587/7369
+#EXTINF:-1,AL: AL K SPORT2
+http://iptv-line.com:7899/demo480472/590587/7370
+#EXTINF:-1,AL: AL K SPORT3
+http://iptv-line.com:7899/demo480472/590587/7371
+#EXTINF:-1,AL: AL K SPORT4
+http://iptv-line.com:7899/demo480472/590587/7372
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://iptv-line.com:7899/demo480472/590587/3367
+#EXTINF:-1,AL: Tring Sport 2 HD
+http://iptv-line.com:7899/demo480472/590587/3368
+#EXTINF:-1,AL: Tele Sport
+http://iptv-line.com:7899/demo480472/590587/3454
+#EXTINF:-1,AL: RTSH Sport HD
+http://iptv-line.com:7899/demo480472/590587/3453
+#EXTINF:-1,AL: TRING SPORT 1 HD
+http://iptv-line.com:7899/demo480472/590587/3396
+#EXTINF:-1,AL : SuperSport 6
+http://iptv-line.com:7899/demo480472/590587/3403
+#EXTINF:-1,AL : SuperSport 5
+http://iptv-line.com:7899/demo480472/590587/3404
+#EXTINF:-1,AL : SuperSport 4
+http://iptv-line.com:7899/demo480472/590587/3405
+#EXTINF:-1,AL : SuperSport 3
+http://iptv-line.com:7899/demo480472/590587/3406
+#EXTINF:-1,AL: Super Sport Kosovo 2 HD
+http://iptv-line.com:7899/demo480472/590587/2127
+#EXTINF:-1,AL: Super Sport Kosovo 1 HD
+http://iptv-line.com:7899/demo480472/590587/2128
+#EXTINF:-1,AL: Super Sport 2
+http://iptv-line.com:7899/demo480472/590587/2129
+#EXTINF:-1,AL: Super Sport 1
+http://iptv-line.com:7899/demo480472/590587/2130
+#EXTINF:-1,AL: Super Sport 4 HD
+http://iptv-line.com:7899/demo480472/590587/340
+#EXTINF:-1,AL: Super Sport 3 HD
+http://iptv-line.com:7899/demo480472/590587/339
+#EXTINF:-1,Al: Super Sport 2 HD
+http://iptv-line.com:7899/demo480472/590587/338
+#EXTINF:-1,AL: Super Sport 1 HD
+http://iptv-line.com:7899/demo480472/590587/337
+#EXTINF:-1,AL: Super Sport 1 FHD
+http://iptv-line.com:7899/demo480472/590587/26839
+#EXTINF:-1,AL: Super Sport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/26838
+#EXTINF:-1,AL: Super Sport 3 FHD
+http://iptv-line.com:7899/demo480472/590587/26837
+#EXTINF:-1,AL: Super Sport 4 FHD
+http://iptv-line.com:7899/demo480472/590587/26836
+#EXTINF:-1,AL: Super Sport 5 FHD
+http://iptv-line.com:7899/demo480472/590587/26835
+#EXTINF:-1,AL: Super Sport 6 FHD
+http://iptv-line.com:7899/demo480472/590587/26834
+#EXTINF:-1,AL: Super Sport 7 FHD
+http://iptv-line.com:7899/demo480472/590587/26833
+#EXTINF:-1,AL: EuroSport 1 FHD
+http://iptv-line.com:7899/demo480472/590587/26884
+#EXTINF:-1,AL: EuroSport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/26883
+#EXTINF:-1,AL: Super Sport Kosova 1 FHD
+http://iptv-line.com:7899/demo480472/590587/26887
+#EXTINF:-1,AL: Super Sport Kosova 2 FHD
+http://iptv-line.com:7899/demo480472/590587/26886
+#EXTINF:-1,AL: Super Sport Kosova 3 FHD
+http://iptv-line.com:7899/demo480472/590587/26885
+#EXTINF:-1,AL: Tring Sport 1 FHD
+http://iptv-line.com:7899/demo480472/590587/26882
+#EXTINF:-1,AL: Tring Sport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/26881
+#EXTINF:-1,AL: Tring Sport 3 FHD
+http://iptv-line.com:7899/demo480472/590587/26880
+#EXTINF:-1,AL: Tring Sport 4 FHD
+http://iptv-line.com:7899/demo480472/590587/26879
+#EXTINF:-1 group-title="Spain",ES: Movistar Liga de Campeones 3 HD
+http://iptv-line.com:7899/demo480472/590587/50789
+#EXTINF:-1,ES: Movistar Liga de Campeones 2 HD
+http://iptv-line.com:7899/demo480472/590587/50788
+#EXTINF:-1,ES: Movistar Liga de Campeones 2 FHD
+http://iptv-line.com:7899/demo480472/590587/50787
+#EXTINF:-1,ES: Movistar Liga de Campeones 1 HD
+http://iptv-line.com:7899/demo480472/590587/50786
+#EXTINF:-1,ES: Movistar Liga de Campeones 1 FHD
+http://iptv-line.com:7899/demo480472/590587/50785
+#EXTINF:-1,ES:Canal  LIGA HD
+http://iptv-line.com:7899/demo480472/590587/2690
+#EXTINF:-1,ES:Canal  FUTBOL HD
+http://iptv-line.com:7899/demo480472/590587/2692
+#EXTINF:-1,ES: Canal  DEPORTES HD
+http://iptv-line.com:7899/demo480472/590587/2693
+#EXTINF:-1,ES:Canal  DEPORTES 2 HD
+http://iptv-line.com:7899/demo480472/590587/2694
+#EXTINF:-1,ES: La Liga BAR HD
+http://iptv-line.com:7899/demo480472/590587/5424
+#EXTINF:-1,ES: Bein Sport HD
+http://iptv-line.com:7899/demo480472/590587/5422
+#EXTINF:-1,ES: Bein Liga HD
+http://iptv-line.com:7899/demo480472/590587/5423
+#EXTINF:-1,ES: EUROSPORT 1
+http://iptv-line.com:7899/demo480472/590587/6694
+#EXTINF:-1,ES: EUROSPORT 2
+http://iptv-line.com:7899/demo480472/590587/6695
+#EXTINF:-1,VIP ES: Bein Sports FHD
+http://iptv-line.com:7899/demo480472/590587/6724
+#EXTINF:-1,ES: beIN LA Liga FHD
+http://iptv-line.com:7899/demo480472/590587/8677
+#EXTINF:-1,ES: beIN Laliga 1 HD Backup
+http://iptv-line.com:7899/demo480472/590587/8676
+#EXTINF:-1,ES: beIN Sport FHD
+http://iptv-line.com:7899/demo480472/590587/11776
+#EXTINF:-1,ES: LaLiga 123 FHD
+http://iptv-line.com:7899/demo480472/590587/17018
+#EXTINF:-1,ES: BeiN La Liga
+http://iptv-line.com:7899/demo480472/590587/16858
+#EXTINF:-1,ES: BeiN Laliga FHD
+http://iptv-line.com:7899/demo480472/590587/16861
+#EXTINF:-1,ES: Eurosport 1 FHD
+http://iptv-line.com:7899/demo480472/590587/17124
+#EXTINF:-1,ES: Movistar  Deportes 2 FHD
+http://iptv-line.com:7899/demo480472/590587/17131
+#EXTINF:-1,ES: Movistar Deportes 1 FHD
+http://iptv-line.com:7899/demo480472/590587/17135
+#EXTINF:-1,ES: Movistar Futbol FHD
+http://iptv-line.com:7899/demo480472/590587/17138
+#EXTINF:-1,ES: Movistar Futbol
+http://iptv-line.com:7899/demo480472/590587/3068
+#EXTINF:-1,ES: LIGA CAMPEONES 2 FHD
+http://iptv-line.com:7899/demo480472/590587/45994
+#EXTINF:-1,ES: LIGA DE CAMPEONES 1 FHD
+http://iptv-line.com:7899/demo480472/590587/45993
+#EXTINF:-1,ES: LIGA DE CAMPEONES 2
+http://iptv-line.com:7899/demo480472/590587/45992
+#EXTINF:-1,ES: MOVISTAR DEPORTE
+http://iptv-line.com:7899/demo480472/590587/45991
+#EXTINF:-1,ES: MOVISTAR DEPORTE FHD
+http://iptv-line.com:7899/demo480472/590587/46003
+#EXTINF:-1,ES: MOVISTAR DEPORTES*
+http://iptv-line.com:7899/demo480472/590587/45982
+#EXTINF:-1,ES: DAZN Espana HD  (Only During Events )
+http://iptv-line.com:7899/demo480472/590587/46636
+#EXTINF:-1 group-title="Turkey",TR: beIN Sport 1 HD
+http://iptv-line.com:7899/demo480472/590587/11778
+#EXTINF:-1,TR: S SPORT HD
+http://iptv-line.com:7899/demo480472/590587/11793
+#EXTINF:-1,TR: beIN SPORTS 1 HD ?
+http://iptv-line.com:7899/demo480472/590587/16160
+#EXTINF:-1,TR: beIN SPORTS 2 HD
+http://iptv-line.com:7899/demo480472/590587/16159
+#EXTINF:-1,TR: beIN SPORTS 3 HD
+http://iptv-line.com:7899/demo480472/590587/16161
+#EXTINF:-1,TR: beIN SPORTS 4 HD
+http://iptv-line.com:7899/demo480472/590587/16162
+#EXTINF:-1,TR: TRT SPOR SD/HD
+http://iptv-line.com:7899/demo480472/590587/4256
+#EXTINF:-1,TR: TIVIBUSPOR 4 HD
+http://iptv-line.com:7899/demo480472/590587/4249
+#EXTINF:-1,TR: TIVIBU SPOR 3 HD
+http://iptv-line.com:7899/demo480472/590587/4248
+#EXTINF:-1,TR: TIVIBUSPOR 1 HD
+http://iptv-line.com:7899/demo480472/590587/4246
+#EXTINF:-1,TR: TIVIBU SPOR 2 HD
+http://iptv-line.com:7899/demo480472/590587/4247
+#EXTINF:-1,TR: SPORTS TV  HD
+http://iptv-line.com:7899/demo480472/590587/4258
+#EXTINF:-1,TR: S SPORT HD
+http://iptv-line.com:7899/demo480472/590587/4251
+#EXTINF:-1,TR: beIN Box Office 1
+http://iptv-line.com:7899/demo480472/590587/7678
+#EXTINF:-1,TR: Bein sports 1 HD (Backup)
+http://iptv-line.com:7899/demo480472/590587/19304
+#EXTINF:-1,TR: Bein sports 2 HD (Backup)
+http://iptv-line.com:7899/demo480472/590587/19303
+#EXTINF:-1,TR: Bein sports 3 HD (Backup)
+http://iptv-line.com:7899/demo480472/590587/19302
+#EXTINF:-1,TR: Bein sports 4 HD (Backup)
+http://iptv-line.com:7899/demo480472/590587/19301
+#EXTINF:-1,TR: beIN Box Office 2
+http://iptv-line.com:7899/demo480472/590587/7679
+#EXTINF:-1,TR: beIN SPORTS MAX 1 HD
+http://iptv-line.com:7899/demo480472/590587/17625
+#EXTINF:-1,TR: beIN SPORTS MAX 2 HD
+http://iptv-line.com:7899/demo480472/590587/17626
+#EXTINF:-1,TR : SPORTS TV HD
+http://iptv-line.com:7899/demo480472/590587/2440
+#EXTINF:-1,TR: BEIN SPORT 1 FHD
+http://iptv-line.com:7899/demo480472/590587/26475
+#EXTINF:-1,TR: BEIN SPORT 1HD
+http://iptv-line.com:7899/demo480472/590587/26476
+#EXTINF:-1,TR: BEIN SPORT 2 FHD
+http://iptv-line.com:7899/demo480472/590587/26474
+#EXTINF:-1,TR: BEIN SPORT 2 HD
+http://iptv-line.com:7899/demo480472/590587/26469
+#EXTINF:-1,TR: BEIN SPORT 3 FHD
+http://iptv-line.com:7899/demo480472/590587/26473
+#EXTINF:-1,TR: BEIN SPORT 3 HD
+http://iptv-line.com:7899/demo480472/590587/26468
+#EXTINF:-1,TR: BEIN SPORT 4 FHD
+http://iptv-line.com:7899/demo480472/590587/26472
+#EXTINF:-1,TR: BEIN SPORT 4 HD
+http://iptv-line.com:7899/demo480472/590587/26467
+#EXTINF:-1,TR: BEIN SPORT MAX 1 HD
+http://iptv-line.com:7899/demo480472/590587/26466
+#EXTINF:-1,TR: BEIN SPORT MAX 2 HD
+http://iptv-line.com:7899/demo480472/590587/26465
+#EXTINF:-1,TR: SMART SPOR TR FHD
+http://iptv-line.com:7899/demo480472/590587/26926
+#EXTINF:-1,TR: TIVIBU SPORT 1 FHD
+http://iptv-line.com:7899/demo480472/590587/26928
+#EXTINF:-1,TR: TIVIBU SPORT 2 FHD
+http://iptv-line.com:7899/demo480472/590587/26929
+#EXTINF:-1,TR: TIVIBU SPORT 3 FHD
+http://iptv-line.com:7899/demo480472/590587/26930
+#EXTINF:-1,TR: TIVIBU SPORT 4 FHD
+http://iptv-line.com:7899/demo480472/590587/26931
+#EXTINF:-1,TR: BEIN SPORTS iz 4K
+http://iptv-line.com:7899/demo480472/590587/29111
+#EXTINF:-1,TR: BEIN BOX OFFICE 3 HD
+http://iptv-line.com:7899/demo480472/590587/31412
+#EXTINF:-1,TR: beIN Sports Haber FHD
+http://iptv-line.com:7899/demo480472/590587/40107
+#EXTINF:-1,TR: beIN SPORTS Haber HD
+http://iptv-line.com:7899/demo480472/590587/40106
+#EXTINF:-1,TR: SMART SPOR 1
+http://iptv-line.com:7899/demo480472/590587/47281
+#EXTINF:-1,TR: Smart Spor 2
+http://iptv-line.com:7899/demo480472/590587/47280
+#EXTINF:-1 group-title="EX-YU",EX-YU: Arena Sport 3 FHD Serbian
+http://iptv-line.com:7899/demo480472/590587/18207
+#EXTINF:-1,EX-YU: Arena Sport 3 HR FHD (Ex-Yu)
+http://iptv-line.com:7899/demo480472/590587/18206
+#EXTINF:-1,EX-YU: Arena Sport 4 HR FHD (Ex-Yu)
+http://iptv-line.com:7899/demo480472/590587/18205
+#EXTINF:-1,EX-YU: Arena Sport 5 FHD Croatia
+http://iptv-line.com:7899/demo480472/590587/18204
+#EXTINF:-1,EX-YU: Arena Sport 5 HR FHD (Ex-Yu)
+http://iptv-line.com:7899/demo480472/590587/18203
+#EXTINF:-1,EX-YU: Eurosport 1
+http://iptv-line.com:7899/demo480472/590587/3528
+#EXTINF:-1,EX-YU: Eurosport 2
+http://iptv-line.com:7899/demo480472/590587/3527
+#EXTINF:-1,EX-YU: Sport Klub 1
+http://iptv-line.com:7899/demo480472/590587/3605
+#EXTINF:-1,EX-YU: Sport Klub 2
+http://iptv-line.com:7899/demo480472/590587/3604
+#EXTINF:-1,EX-YU: Sport Klub 3
+http://iptv-line.com:7899/demo480472/590587/3603
+#EXTINF:-1,EX-YU: SPORTKLUB 4 SD
+http://iptv-line.com:7899/demo480472/590587/3602
+#EXTINF:-1,EX-YU: SPORTKLUB 5 SD
+http://iptv-line.com:7899/demo480472/590587/3601
+#EXTINF:-1,EX-YU: N1 Bosna
+http://iptv-line.com:7899/demo480472/590587/4406
+#EXTINF:-1,Ex-Yu: Arena Sport 1 HR FHD
+http://iptv-line.com:7899/demo480472/590587/18209
+#EXTINF:-1,Ex-Yu: Arena Sport 2 HR FHD
+http://iptv-line.com:7899/demo480472/590587/18208
+#EXTINF:-1,SR: Arenasport 1 HD
+http://iptv-line.com:7899/demo480472/590587/400
+#EXTINF:-1,SR: Arenasport 3 HD
+http://iptv-line.com:7899/demo480472/590587/402
+#EXTINF:-1,SR: Arenasport 4 HD
+http://iptv-line.com:7899/demo480472/590587/403
+#EXTINF:-1,SR: Arenasport 5 HD
+http://iptv-line.com:7899/demo480472/590587/404
+#EXTINF:-1,SR: Supersport 1
+http://iptv-line.com:7899/demo480472/590587/405
+#EXTINF:-1,SR: Supersport 2
+http://iptv-line.com:7899/demo480472/590587/406
+#EXTINF:-1,AL: Super sport 3
+http://iptv-line.com:7899/demo480472/590587/407
+#EXTINF:-1,SLO: SPORT TV 1 HD
+http://iptv-line.com:7899/demo480472/590587/6842
+#EXTINF:-1,SLO: SPORT TV 2 HD
+http://iptv-line.com:7899/demo480472/590587/6843
+#EXTINF:-1,SLO: SPORT TV 3 HD
+http://iptv-line.com:7899/demo480472/590587/6844
+#EXTINF:-1,SLO: SPORTKLUB 1 HD
+http://iptv-line.com:7899/demo480472/590587/6845
+#EXTINF:-1,SLO: SPORTKLUB 2 HD
+http://iptv-line.com:7899/demo480472/590587/6846
+#EXTINF:-1,SLO: SPORTKLUB 3 HD
+http://iptv-line.com:7899/demo480472/590587/6847
+#EXTINF:-1,SLO: SPORTKLUB 4
+http://iptv-line.com:7899/demo480472/590587/6848
+#EXTINF:-1,AL: Arena Sport 1 FHD Croatia
+http://iptv-line.com:7899/demo480472/590587/18210
+#EXTINF:-1,EX-YU: Arena sport 2 HD
+http://iptv-line.com:7899/demo480472/590587/401
+#EXTINF:-1,Ex-Yu: Sport Klub HD 1 Srb
+http://iptv-line.com:7899/demo480472/590587/26625
+#EXTINF:-1,Ex-Yu: Sport Klub HD 2 Srb
+http://iptv-line.com:7899/demo480472/590587/26626
+#EXTINF:-1,Ex-Yu: Sport Klub HD 3 Srb
+http://iptv-line.com:7899/demo480472/590587/26627
+#EXTINF:-1,EX-YU: Sport Klub 1 FHD HR
+http://iptv-line.com:7899/demo480472/590587/26932
+#EXTINF:-1,EX-YU: Sport Klub 2 FHD HR
+http://iptv-line.com:7899/demo480472/590587/26933
+#EXTINF:-1,EX-YU: Sport Klub 3 FHD HR
+http://iptv-line.com:7899/demo480472/590587/26934
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HD (SR)
+http://iptv-line.com:7899/demo480472/590587/28268
+#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
+http://iptv-line.com:7899/demo480472/590587/30759
+#EXTINF:-1,EX-YU: PLANET SPORT 1 HD
+http://iptv-line.com:7899/demo480472/590587/30758
+#EXTINF:-1,EX-YU: PLANET SPORT 2 HD
+http://iptv-line.com:7899/demo480472/590587/30757
+#EXTINF:-1,EX-YU: PLANET SPORT 3 HD
+http://iptv-line.com:7899/demo480472/590587/30756
+#EXTINF:-1,EX-YU: PLANET SPORT 4 HD
+http://iptv-line.com:7899/demo480472/590587/30755
+#EXTINF:-1,EX-YU: PLANET SPORT 5 HD
+http://iptv-line.com:7899/demo480472/590587/30754
+#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
+http://iptv-line.com:7899/demo480472/590587/31021
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HD (SR)
+http://iptv-line.com:7899/demo480472/590587/31022
+#EXTINF:-1 group-title="Greece",GR: Eurosport 1
+http://iptv-line.com:7899/demo480472/590587/51609
+#EXTINF:-1,GR: Eurosport 2
+http://iptv-line.com:7899/demo480472/590587/51608
+#EXTINF:-1,GR: Novasports 24 HD
+http://iptv-line.com:7899/demo480472/590587/51436
+#EXTINF:-1,GR: Novasports 5 HD
+http://iptv-line.com:7899/demo480472/590587/51435
+#EXTINF:-1,GR: Nova Sport 1 backup
+http://iptv-line.com:7899/demo480472/590587/50131
+#EXTINF:-1,GR: Eurosport 2
+http://iptv-line.com:7899/demo480472/590587/3343
+#EXTINF:-1,GR: Eurosport 1
+http://iptv-line.com:7899/demo480472/590587/3344
+#EXTINF:-1,GR: COSMOTE SPORT 1 HD
+http://iptv-line.com:7899/demo480472/590587/31358
+#EXTINF:-1,GR: COSMOTE SPORT 2 HD
+http://iptv-line.com:7899/demo480472/590587/31357
+#EXTINF:-1,GR: COSMOTE SPORT 3 HD
+http://iptv-line.com:7899/demo480472/590587/31356
+#EXTINF:-1,GR: COSMOTE SPORT 4 HD
+http://iptv-line.com:7899/demo480472/590587/31355
+#EXTINF:-1,GR: COSMOTE SPORT 5 HD
+http://iptv-line.com:7899/demo480472/590587/31354
+#EXTINF:-1,GR: COSMOTE SPORT 6 HD
+http://iptv-line.com:7899/demo480472/590587/31353
+#EXTINF:-1,GR: COSMOTE SPORT 7 HD
+http://iptv-line.com:7899/demo480472/590587/31352
+#EXTINF:-1,GR: COSMOTE SPORT 8 HD
+http://iptv-line.com:7899/demo480472/590587/31351
+#EXTINF:-1,GR: NOVA SPORTS 1
+http://iptv-line.com:7899/demo480472/590587/33583
+#EXTINF:-1,GR: NOVA SPORTS 2
+http://iptv-line.com:7899/demo480472/590587/33582
+#EXTINF:-1,GR: NOVA SPORTS 3
+http://iptv-line.com:7899/demo480472/590587/33581
+#EXTINF:-1,GR: NOVA SPORTS 4
+http://iptv-line.com:7899/demo480472/590587/33580
+#EXTINF:-1,GR: NOVA SPORTS 5
+http://iptv-line.com:7899/demo480472/590587/33579
+#EXTINF:-1,GR: Cosmote Sport 1
+http://iptv-line.com:7899/demo480472/590587/40117
+#EXTINF:-1,GR: Cosmote Sport 2
+http://iptv-line.com:7899/demo480472/590587/40116
+#EXTINF:-1,GR: Cosmote Sport 3
+http://iptv-line.com:7899/demo480472/590587/40115
+#EXTINF:-1,GR: Cosmote Sport 4
+http://iptv-line.com:7899/demo480472/590587/40114
+#EXTINF:-1,GR: Cosmote Sport 5
+http://iptv-line.com:7899/demo480472/590587/40113
+#EXTINF:-1,GR: Cosmote sport 6
+http://iptv-line.com:7899/demo480472/590587/40112
+#EXTINF:-1,GR: Cosmote Sport 7
+http://iptv-line.com:7899/demo480472/590587/40111
+#EXTINF:-1,GR: Cosmote Sport 8
+http://iptv-line.com:7899/demo480472/590587/40110
+#EXTINF:-1,GR: Cosmote Sport 9
+http://iptv-line.com:7899/demo480472/590587/40109
+#EXTINF:-1,GR: ERT SPORTS  HD
+http://iptv-line.com:7899/demo480472/590587/41009
+#EXTINF:-1,GR: ERT SPORTS WORLDWIDE
+http://iptv-line.com:7899/demo480472/590587/41010
+#EXTINF:-1,GR: OTE Sport 1
+http://iptv-line.com:7899/demo480472/590587/46065
+#EXTINF:-1,GR: OTE Sport 1 HD
+http://iptv-line.com:7899/demo480472/590587/46064
+#EXTINF:-1,GR: OTE Sport 2
+http://iptv-line.com:7899/demo480472/590587/46063
+#EXTINF:-1,GR: OTE Sport 2 HD
+http://iptv-line.com:7899/demo480472/590587/46062
+#EXTINF:-1,GR: OTE Sport 3
+http://iptv-line.com:7899/demo480472/590587/46061
+#EXTINF:-1,GR: OTE Sport 3 HD
+http://iptv-line.com:7899/demo480472/590587/46060
+#EXTINF:-1,GR: OTE Sport 4
+http://iptv-line.com:7899/demo480472/590587/46059
+#EXTINF:-1,GR: OTE Sport 4 HD
+http://iptv-line.com:7899/demo480472/590587/46058
+#EXTINF:-1,GR: OTE Sport 5 HD
+http://iptv-line.com:7899/demo480472/590587/46057
+#EXTINF:-1,GR: OTE Sport 6 HD
+http://iptv-line.com:7899/demo480472/590587/46056
+#EXTINF:-1,GR: OTE Sport 7 HD
+http://iptv-line.com:7899/demo480472/590587/46055
+#EXTINF:-1,GR: OTE Sport 8 HD
+http://iptv-line.com:7899/demo480472/590587/46054
+#EXTINF:-1,GR: NOVA SPORTS 1 HD (LIVE ON MATCHES)
+http://iptv-line.com:7899/demo480472/590587/46985
+#EXTINF:-1,GR: NOVA SPORTS 2 HD (LIVE ON MATCHES)
+http://iptv-line.com:7899/demo480472/590587/46984
+#EXTINF:-1,GR: Cosmote Sport 7 HD*
+http://iptv-line.com:7899/demo480472/590587/47811
+#EXTINF:-1 group-title="Bulgaria",BG: DiemaSport
+http://iptv-line.com:7899/demo480472/590587/51491
+#EXTINF:-1,BG: DiemaSport2
+http://iptv-line.com:7899/demo480472/590587/51490
+#EXTINF:-1,BG: Eurosport2
+http://iptv-line.com:7899/demo480472/590587/51483
+#EXTINF:-1,BG: NovaSport
+http://iptv-line.com:7899/demo480472/590587/51463
+#EXTINF:-1,BG: TraceSportStars
+http://iptv-line.com:7899/demo480472/590587/51453
+#EXTINF:-1,BG: Diema Spor 1
+http://iptv-line.com:7899/demo480472/590587/7119
+#EXTINF:-1,BG: Diema Spor 2
+http://iptv-line.com:7899/demo480472/590587/7118
+#EXTINF:-1,BG: EuroSport
+http://iptv-line.com:7899/demo480472/590587/7115
+#EXTINF:-1,BG: EuroSport 2
+http://iptv-line.com:7899/demo480472/590587/7114
+#EXTINF:-1,BG: Trace Sport Stars HD
+http://iptv-line.com:7899/demo480472/590587/8705
+#EXTINF:-1,BG: Diema Sport 2 HD
+http://iptv-line.com:7899/demo480472/590587/27020
+#EXTINF:-1,BG: Diema Sport HD
+http://iptv-line.com:7899/demo480472/590587/27019
+#EXTINF:-1,BG: Diema Sport 2 FHD
+http://iptv-line.com:7899/demo480472/590587/27877
+#EXTINF:-1,BG: Diema Sport FHD
+http://iptv-line.com:7899/demo480472/590587/27876
+#EXTINF:-1,BG: Nova Sport FHD
+http://iptv-line.com:7899/demo480472/590587/27851
+#EXTINF:-1,BG: Sport  FHD
+http://iptv-line.com:7899/demo480472/590587/27847
+#EXTINF:-1,BG: MAX SPORT 1 HD
+http://iptv-line.com:7899/demo480472/590587/30760
+#EXTINF:-1,BG: MAX SPORT 2 HD
+http://iptv-line.com:7899/demo480472/590587/30761
+#EXTINF:-1,BG: SPORT FHD
+http://iptv-line.com:7899/demo480472/590587/31868
+#EXTINF:-1,BG: MAX SPORT 3 HD
+http://iptv-line.com:7899/demo480472/590587/33777
+#EXTINF:-1,BG: MAX SPORT 4 HD
+http://iptv-line.com:7899/demo480472/590587/46990
+#EXTINF:-1 group-title="Czech Republic",CZ: Nova Sport 1 HD
+http://iptv-line.com:7899/demo480472/590587/51153
+#EXTINF:-1,CZ: Eurosport 2 HD
+http://iptv-line.com:7899/demo480472/590587/51125
+#EXTINF:-1,CZ: Eurosport 1 HD
+http://iptv-line.com:7899/demo480472/590587/51124
+#EXTINF:-1,CZ: CT sport HD
+http://iptv-line.com:7899/demo480472/590587/51119
+#EXTINF:-1,CZ: Arena Sport
+http://iptv-line.com:7899/demo480472/590587/51104
+#EXTINF:-1,CZ: Sport 5
+http://iptv-line.com:7899/demo480472/590587/3812
+#EXTINF:-1,CZ: Sport 2 HD
+http://iptv-line.com:7899/demo480472/590587/3813
+#EXTINF:-1,CZ: Sport 1
+http://iptv-line.com:7899/demo480472/590587/3814
+#EXTINF:-1,CZ: Nova Sport 2 HD
+http://iptv-line.com:7899/demo480472/590587/3804
+#EXTINF:-1 group-title="Belgium",BE: 2BE Belgium
+http://iptv-line.com:7899/demo480472/590587/5083
+#EXTINF:-1,BE: Acht Belgium
+http://iptv-line.com:7899/demo480472/590587/5085
+#EXTINF:-1,BE: Een Belgium
+http://iptv-line.com:7899/demo480472/590587/5097
+#EXTINF:-1,BE: La Deux Belgium
+http://iptv-line.com:7899/demo480472/590587/5093
+#EXTINF:-1,BE: Plug RTL Belgium
+http://iptv-line.com:7899/demo480472/590587/5095
+#EXTINF:-1,BE: RTL TVI Belgium
+http://iptv-line.com:7899/demo480472/590587/5096
+#EXTINF:-1,BE: La Une Belgium
+http://iptv-line.com:7899/demo480472/590587/5092
+#EXTINF:-1,BE: VIJF Belgium
+http://iptv-line.com:7899/demo480472/590587/5099
+#EXTINF:-1,BE: La Trois Belgium
+http://iptv-line.com:7899/demo480472/590587/5094
+#EXTINF:-1,BE: Canvas Belgium
+http://iptv-line.com:7899/demo480472/590587/5089
+#EXTINF:-1,BE: Vitaya Belgium
+http://iptv-line.com:7899/demo480472/590587/5100
+#EXTINF:-1,BE: Vier Belgium
+http://iptv-line.com:7899/demo480472/590587/5098
+#EXTINF:-1,BE: VTM Belgium
+http://iptv-line.com:7899/demo480472/590587/5101
+#EXTINF:-1,BE: Club RTL Belgium
+http://iptv-line.com:7899/demo480472/590587/5090
+#EXTINF:-1,BE: Cinema 1
+http://iptv-line.com:7899/demo480472/590587/5086
+#EXTINF:-1,BE: Cinema 2
+http://iptv-line.com:7899/demo480472/590587/5087
+#EXTINF:-1,BE: PLUG RTL
+http://iptv-line.com:7899/demo480472/590587/3723
+#EXTINF:-1,BE: RTL TVI
+http://iptv-line.com:7899/demo480472/590587/3722
+#EXTINF:-1,BE: Voo Sport 1
+http://iptv-line.com:7899/demo480472/590587/7709
+#EXTINF:-1,BE: EEN HD 1080P
+http://iptv-line.com:7899/demo480472/590587/7780
+#EXTINF:-1,BE: Q2 HD 1080P
+http://iptv-line.com:7899/demo480472/590587/7779
+#EXTINF:-1,BE: VIER HD 1080P
+http://iptv-line.com:7899/demo480472/590587/7778
+#EXTINF:-1,BE: VITAYA HD 1080P
+http://iptv-line.com:7899/demo480472/590587/7777
+#EXTINF:-1,BE: VTM HD 1080P
+http://iptv-line.com:7899/demo480472/590587/7776
+#EXTINF:-1,BE: VOO SPORT 1 HD
+http://iptv-line.com:7899/demo480472/590587/9188
+#EXTINF:-1,BE: VOOsport 2
+http://iptv-line.com:7899/demo480472/590587/9187
+#EXTINF:-1,BE: VOOsport 4
+http://iptv-line.com:7899/demo480472/590587/9186
+#EXTINF:-1,BE: VOO SPORT WORLD 1
+http://iptv-line.com:7899/demo480472/590587/17206
+#EXTINF:-1,BE: VOO SPORT WORLD 2
+http://iptv-line.com:7899/demo480472/590587/17212
+#EXTINF:-1,BE: Ketop12
+http://iptv-line.com:7899/demo480472/590587/17490
+#EXTINF:-1,BE: Play Sports 1
+http://iptv-line.com:7899/demo480472/590587/29059
+#EXTINF:-1,BE: Play Sports 2
+http://iptv-line.com:7899/demo480472/590587/29060
+#EXTINF:-1,BE: Play Sports 3
+http://iptv-line.com:7899/demo480472/590587/29061
+#EXTINF:-1,BE: ELEVEN SPORT
+http://iptv-line.com:7899/demo480472/590587/31490
+#EXTINF:-1,BE: Eleven Sport 1 HD
+http://iptv-line.com:7899/demo480472/590587/31489
+#EXTINF:-1,BE: Eleven Sport 2 HD
+http://iptv-line.com:7899/demo480472/590587/31488
+#EXTINF:-1,BE: Eleven Sport 3 HD
+http://iptv-line.com:7899/demo480472/590587/31487
+#EXTINF:-1,BE: Eleven Sport 4 HD
+http://iptv-line.com:7899/demo480472/590587/31486
+#EXTINF:-1,BG: Hobby TV
+http://iptv-line.com:7899/demo480472/590587/31464
+#EXTINF:-1,BE: Play Sports 4 HD+ (Only ON by live event)
+http://iptv-line.com:7899/demo480472/590587/31491
+#EXTINF:-1,BE: Play Sports 5 HD+ (Only ON by live event)
+http://iptv-line.com:7899/demo480472/590587/31492
+#EXTINF:-1,BE: PROXIMUS 11 HD
+http://iptv-line.com:7899/demo480472/590587/40342
+#EXTINF:-1 group-title="Swiss",SW: Teleclub Sport 1 HD
+http://iptv-line.com:7899/demo480472/590587/7311
+#EXTINF:-1,SW: Teleclub Sport 1 SD
+http://iptv-line.com:7899/demo480472/590587/7310
+#EXTINF:-1,SW: Teleclub Sport 2 HD
+http://iptv-line.com:7899/demo480472/590587/7309
+#EXTINF:-1,SW: Teleclub Sport 2 SD
+http://iptv-line.com:7899/demo480472/590587/7308
+#EXTINF:-1,SW: Teleclub Sport 3 HD
+http://iptv-line.com:7899/demo480472/590587/7307
+#EXTINF:-1,SW: Teleclub Sport 3 SD
+http://iptv-line.com:7899/demo480472/590587/7306
+#EXTINF:-1,SW: TC Bundesliga
+http://iptv-line.com:7899/demo480472/590587/16832
+#EXTINF:-1,SW: TC Bundesliga Hd
+http://iptv-line.com:7899/demo480472/590587/16831
+#EXTINF:-1,SW: TC Sport 2
+http://iptv-line.com:7899/demo480472/590587/16828
+#EXTINF:-1,SW: TC Sport 3 FHD
+http://iptv-line.com:7899/demo480472/590587/16827
+#EXTINF:-1,SW: UPC My Sports FHD
+http://iptv-line.com:7899/demo480472/590587/16817
+#EXTINF:-1,SW: MySports 1 FHD
+http://iptv-line.com:7899/demo480472/590587/27807
+#EXTINF:-1,SW: MySports 2 FHD
+http://iptv-line.com:7899/demo480472/590587/27806
+#EXTINF:-1,SW: MySports 3 FHD
+http://iptv-line.com:7899/demo480472/590587/27805
+#EXTINF:-1,SW: MySports 4 FHD
+http://iptv-line.com:7899/demo480472/590587/27804
+#EXTINF:-1,SW: MySports 5 FHD
+http://iptv-line.com:7899/demo480472/590587/27803
+#EXTINF:-1,SW: MySports 6 FHD
+http://iptv-line.com:7899/demo480472/590587/27802
+#EXTINF:-1,SW: MySports 7 FHD
+http://iptv-line.com:7899/demo480472/590587/27801
+#EXTINF:-1,SW: MySports 8 FHD
+http://iptv-line.com:7899/demo480472/590587/27800
+#EXTINF:-1,SW: MySports 9 FHD
+http://iptv-line.com:7899/demo480472/590587/27799
+#EXTINF:-1,SW: MySports FHD
+http://iptv-line.com:7899/demo480472/590587/27808
+#EXTINF:-1,SW: MySports 1 HD
+http://iptv-line.com:7899/demo480472/590587/29135
+#EXTINF:-1,SW: MySports 2 HD
+http://iptv-line.com:7899/demo480472/590587/29134
